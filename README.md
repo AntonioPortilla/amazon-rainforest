@@ -12,4 +12,4 @@ Efectivamente se ha comprobado en distintos casos que la Uña de Gato posee capa
 
 - La Chancapiedra es una planta silvestre peruana que protege el hígado y riñones, disolviendo cálculos renales y biliares.
 
-Cuidemos la salud haciendo un buen uso de nuestra maravillosa medicina natural. Que tengas Â¡buena salud!
+Cuidemos la salud haciendo un buen uso de nuestra maravillosa medicina natural. Que tengas ¡buena salud!
