@@ -1,0 +1,12 @@
+.DS_Store
+*.txt
+prueba.php
+composer.json
+composer.lock
+Thumbs.db
+bower_components/
+node_modules/
+vendor/
+dev/
+
+
