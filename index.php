@@ -16,35 +16,53 @@
 </head>
 <body>
 	<header>
-		<div class="navbar-wrapper">
-			<div class="container">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-9 column-1">
+          <img src="public/images/arp.png" alt="arp" class="banner">
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2 column-2">
+          <span class="blog"><a href="#" target="_blank"><img src="public/images/blog.png" alt="blog"></a></span>
+          <span class="facebook"><a href="#" target="_blank"><img src="public/images/facebook.png" alt="facebook"></a></span>
+          <span class="twitter"><a href="#" target="_blank"><img src="public/images/twitter.png" alt="twitter"></a></span>
+        </div>
+        <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 column-3">
+          <a href="#"><img src="public/images/en.png" alt="en"></a>
+          <a href="#"><img src="public/images/es.png" alt="es"></a>
+        </div>
+      </div>
+    </div>
+    <div class="navbar-wrapper">
+      <div class="container">
 				<nav class="navbar navbar-inverse navbar-static-top">
-		          <div class="container">
-		            <div class="navbar-header">
-		              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-		                <span class="sr-only">Toggle navigation</span>
-		                <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-		              </button>
-		              <span class="logo navbar-brand">
-			            <a href="/">
-			            	<img alt="Amazon Rainforest Products" src="public/images/logo.png">
-			            </a>
-			          </span>
-		            </div>
-		            <div id="navbar" class="navbar-collapse collapse">
-		              <ul class="nav navbar-nav navbar-right">
-		                <li class="active"><a href="#">Inicio</a></li>
-		                <li><a href="#Productos">Productos</a></li>
-		                <li><a href="#Nosotros">Nosotros</a></li>
-		                <li><a href="#Empresa">Empresa</a></li>
-		                <li><a href="#Cotización">Cotización</a></li>
-		                <li><a href="#Contáctenos">Contáctenos</a></li>
-		              </ul>
-		            </div>
-		          </div>
-		        </nav>
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <span class="logo navbar-brand">
+	            <a href="/">
+                <figure>
+  	            	<img src="public/images/logo.png" alt="Amazon Rainforest Products" />
+                </figure>
+	            </a>
+	          </span>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="#" class="home">Inicio</a></li>
+                <li><span class="linea"></span><a href="#Productos">Productos</a></li>
+                <li><span class="linea"></span><a href="#Nosotros">Nosotros</a></li>
+                <li><span class="linea"></span><a href="#Empresa">Empresa</a></li>
+                <li><span class="linea"></span><a href="#Cotización">Cotización</a></li>
+                <li><span class="linea"></span><a href="#Contáctenos">Contáctenos</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
 			</div>
 		</div>
 	</header>
@@ -131,6 +149,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="dev/js/holder.js"></script>
     <script src="dev/js/ie10-viewport-bug-workaround.js"></script>
-    <script src="public/js/scripts.min.js"></script>
+    <!--<script src="public/js/scripts.min.js"></script> -->
+    <script src="dev/js/script.js"></script>
 </body>
 </html>
