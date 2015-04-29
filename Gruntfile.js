@@ -1,59 +1,35 @@
+var path = require('path');
+var stylusDir = 'dev/css';
+var javascriptDir = 'public/javascript';
+
 module.exports = function(grunt) {
 
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    uglify: {
-      options: {
-        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
-      },
-      build: {
-        src: 'src/<%= pkg.name %>.js',
-        dest: 'build/<%= pkg.name %>.min.js'
-      }
-    },
     concat: {
         options: {
             stripBanners: true
         },
         dist: {
-            src: ['css/stylePress.css', 'css/style.css'],
-            dest: 'destino/css/stylePress.css'
+            src: ['dev/css/carousel.css', 'dev/css/style.css'],
+            dest: 'prod/css/concatenado.css'
         }
     },
     cssmin: {
       compress: {
         files: {
-          "destino/css/stylePress.min.css": "destino/css/stylePress.css"
+          "public/css/styles.min.css": ['dev/css/style.css', 'dev/css/carousel.css']
         }
       }
     },        
-    htmlmin: {                                     // Task
-        dist: {                                      // Target
-          options: {                                 // Target options
-            removeComments: true,
-            collapseWhitespace: true
-          },
-          files: {                                   // Dictionary of files
-            'destino/index.html': 'index.html',     // 'destination': 'source'
-            //'dist/contact.html': 'src/contact.html'
-          }
-        },
-        dev: {                                       // Another target
-          files: {
-            'dist/index.html': 'src/index.html',
-            'dist/contact.html': 'src/contact.html'
-          }
+    uglify: {
+      my_target: {
+        files: {
+          'public/js/scripts.min.js': ['dev/js/script.js','dev/js/ie10-viewport-bug-workaround.js', 'dev/js/holder.js']
         }
-      },
-
-      /*bgShell: {
-        runNode: {
-            cmd: 'node app.js',
-            bg: true
-        }
-    },*/
-    //
+      }
+    },
     stylus: {
         compile: {
             options: {
@@ -61,7 +37,7 @@ module.exports = function(grunt) {
                 'include css': true
             },
             files: {
-                'public/css/app.min.css': stylusDir + '/index.styl' 
+                'public/css/styles.min.css': stylusDir + '/estilos.styl' 
             }
         }
     },

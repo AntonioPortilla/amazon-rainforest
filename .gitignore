@@ -8,5 +8,6 @@ bower_components/
 node_modules/
 vendor/
 dev/
+prod/
 
 
