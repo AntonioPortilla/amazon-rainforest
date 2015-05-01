@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-05-01 14:00-0500\n"
+"PO-Revision-Date: 2015-05-01 14:00-0500\n"
+"Last-Translator: JALP <jlaveriano@sitatel.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\amazon\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./public/tpl\n"
+
+#: index.php:123
+msgid "Inicio"
+msgstr "Home"
+
+#: index.php:124
+msgid "Nosotros"
+msgstr "Us"
+
+#: index.php:125
+msgid "Empresa"
+msgstr "Business"
+
+#: index.php:126
+msgid "Cotizacion"
+msgstr "quote"
+
+#: index.php:127
+msgid "Contactenos"
+msgstr "Contact"
+
+#: index.php:172
+msgid "Siguenos en"
+msgstr "Follow us"
+
+#: index.php:201
+msgid "todos los derechos reservados"
+msgstr "All rights reserved"
+
+

@@ -1,8 +1,9 @@
 .DS_Store
 *.txt
-prueba.php
+arp-defines.php
 composer.json
 composer.lock
+prueba.php
 Thumbs.db
 bower_components/
 node_modules/
