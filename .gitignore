@@ -1,5 +1,6 @@
 .DS_Store
 *.txt
+*.htaccess
 arp-defines.php
 composer.json
 composer.lock

@@ -15,7 +15,12 @@ include 'arp-defines.php';
   <link rel="stylesheet" href="public/css/styles.min.css">
 </head>
 <body>
-<div class="container">
+  <div class="container">
+    <div class="row cuadro">
+      
+    
+  
+  <div class="container">
     <div class="row">
       <header>
         <div class="container">
@@ -28,9 +33,9 @@ include 'arp-defines.php';
               <span class="facebook"><a href="#" target="_blank"><img src="public/images/facebook.png" alt="facebook"></a></span>
               <span class="twitter"><a href="#" target="_blank"><img src="public/images/twitter.png" alt="twitter"></a></span>
             </div>
-            <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 column-3 idioma">
-              <a href="#" lang="us" class="lang"><img src="public/images/en.png" alt="en"></a>
+            <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 column-3">
               <a href="#" lang="es" class="lang"><img src="public/images/es.png" alt="es"></a>
+              <a href="#" lang="en" class="lang"><img src="public/images/en.png" alt="en"></a>
             </div>
           </div>
         </div>
@@ -211,6 +216,10 @@ include 'arp-defines.php';
         </div>
       </footer>
     </div>
+  </div>
+
+  
+  </div>
   </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
