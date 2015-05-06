@@ -9,8 +9,7 @@
   <link rel="icon" href="<?php echo APP_DOMAIN ?>/favicon.ico">
   <title>Amazon Rainforest Products</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-  <link rel="stylesheet" href="<?php echo CSS_PATH; ?>/styles.min.css">
-  <link rel="stylesheet" href="<?php echo APP_DOMAIN; ?>/dev/css/social-media.css">
+  <link rel="stylesheet" href="<?php echo CSS_PATH; ?>/styles.min.css">  
 </head>
 <body>
   <div class="container">

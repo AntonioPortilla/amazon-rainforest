@@ -21,7 +21,8 @@ module.exports = function(grunt) {
         files: {
           "public/css/styles.min.css": [
           'dev/css/style.css', 
-          'dev/css/carousel.css'
+          'dev/css/carousel.css',
+          'dev/css/social-media.css'
           ]
         }
       }
