@@ -19,14 +19,21 @@ module.exports = function(grunt) {
     cssmin: {
       compress: {
         files: {
-          "public/css/styles.min.css": ['dev/css/style.css', 'dev/css/carousel.css']
+          "public/css/styles.min.css": [
+          'dev/css/style.css', 
+          'dev/css/carousel.css'
+          ]
         }
       }
     },        
     uglify: {
       my_target: {
         files: {
-          'public/js/scripts.min.js': ['dev/js/script.js','dev/js/ie10-viewport-bug-workaround.js', 'dev/js/holder.js']
+          'public/js/scripts.min.js': [
+          'dev/js/script.js',
+          'dev/js/ie10-viewport-bug-workaround.js', 
+          'dev/js/holder.js'
+          ]
         }
       }
     },
