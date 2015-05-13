@@ -139,7 +139,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="#Contáctenos">                            
+                          <a href="<?php echo APP_DOMAIN ?>/contacto/">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['contactenos']; ?></p>

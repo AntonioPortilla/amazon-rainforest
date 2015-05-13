@@ -40,7 +40,14 @@ $lang = array(
 								to the companies offering their products to the world market.',
 		'oficina' 			=> 'Main Office',
 		'telf' 				=> 'Phone',
-		'correo' 			=> 'Mail',
+		'correo' 			=> 'E-Mail',
+		'contacto' 			=> 'Contact',
+		'nombres' 			=> 'Names',
+		'cargo' 			=> 'Office',
+		'comentario' 		=> 'Comment',
+		'enviar' 			=> 'Send',
+		'contact_p1' 		=> 'Our team will be pleased to assist and answer any queries at the time you make the request.',
+		'contact_p2' 		=> 'Thank you for choosing Amazon Rainforest Products',
 		'derechos' 			=> 'All rights reserved'
 		);
 ?>

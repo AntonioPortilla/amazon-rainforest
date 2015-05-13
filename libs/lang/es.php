@@ -42,6 +42,14 @@ $lang = array(
 	    'oficina' 			=> 'oficina principal',
 	    'telf' 				=> 'Teléfono',
 	    'correo' 			=> 'Correo',
+	    'contacto' 			=> 'Contacto',
+	    'nombres' 			=> 'Nombres',
+	    'cargo' 			=> 'Cargo',
+	    'comentario' 		=> 'Comentario',
+	    'enviar' 			=> 'Enviar',
+	    'contact_p1' 		=> 'Nuestro equipo de trabajo estará complacido en atender  y responder cualquier 
+	    						consulta en el instante que usted realice la solicitud.',
+	    'contact_p2' 		=> 'Gracias por escoger Amazon Rainforest Products',
 	    'derechos' 			=> 'Todos los derechos reservados'
     );
 ?>
