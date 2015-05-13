@@ -89,7 +89,7 @@
           <div class="col-sm-10">
             <div class="input-group">
               <span class="input-group-addon">@</span>
-              <input type="email" class="form-control" id="correo" name="correo">
+              <input type="email" class="form-control" id="correo" name="correo" required>
             </div>
           </div>
         </div>    

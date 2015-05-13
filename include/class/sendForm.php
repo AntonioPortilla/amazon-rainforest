@@ -8,7 +8,8 @@
 	require_once 'PHPMailer-5.2.0/class.phpmailer.php'; 
 	//require_once 'PHPMailer-5.2.0/class.pop3.php';
 	//require_once 'PHPMailer-5.2.0/class.smtp.php'; 
-	
+	$correo = $_POST['correo'];
+
 	$mail = new PHPMailer();
 
 	$mail->IsSMTP();                                      // set mailer to use SMTP
@@ -20,7 +21,7 @@
 	$mail->Port = 587;
 
 	$mail->From = "no-reply@amazonrainforestproducts.com";
-	$mail->FromName = "ARP";
+	$mail->FromName = "Amazon Rainforest Products";
 	$mail->AddAddress("julioantonio.lp@gmail.com", "Julio Laveriano");
 	//$mail->AddAddress("ellen@example.com");                  // name is optional
 	$mail->AddReplyTo("info@example.com", "Information");
@@ -30,8 +31,8 @@
 	//$mail->AddAttachment("/tmp/image.jpg", "new.jpg");    // optional name
 	$mail->IsHTML(true);                                  // set email format to HTML
 
-	$mail->Subject = "Amazon Rainforest Products";
-	$mail->Body    = "Cuerpo del mensaje <b>Sabe!</b>";
+	$mail->Subject = "Correo de ARP";
+	$mail->Body    = "Mensaje de <b>".$correo ."</b>";
 	$mail->AltBody = "This is the body in plain text for non-HTML mail clients";
 
 	if(!$mail->Send())
