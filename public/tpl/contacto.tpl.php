@@ -65,28 +65,28 @@
   </div>
   <div class="row contacto">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">            
-      <form class="form-horizontal" id="formContact" action="<?php echo CLASS_PATH ?>/sendForm.php">
+      <form class="form-horizontal" id="formContact">
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="nombres"><?php echo $lang['nombres']; ?></label>
-          <div class="col-sm-10">
-            <input class="form-control" type="text" id="nombres" name="nombres">
+          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> (*)</label>
+          <div class="col-sm-9">
+            <input class="form-control" type="text" id="nombres" name="nombres" required>
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="empresa"><?php echo $lang['empresa']; ?></label>
-          <div class="col-sm-10">
+          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?></label>
+          <div class="col-sm-9">
             <input class="form-control" type="text" id="empresa" name="empresa">
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="cargo"><?php echo $lang['cargo']; ?></label>
-          <div class="col-sm-10">
+          <label class="col-sm-3 control-label" for="cargo"><?php echo $lang['cargo']; ?></label>
+          <div class="col-sm-9">
             <input class="form-control" type="text" id="cargo" name="cargo">
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="correo"><?php echo $lang['correo']; ?></label>
-          <div class="col-sm-10">
+          <label class="col-sm-3 control-label" for="correo"><?php echo $lang['correo']; ?> (*)</label>
+          <div class="col-sm-9">
             <div class="input-group">
               <span class="input-group-addon">@</span>
               <input type="email" class="form-control" id="correo" name="correo" required>
@@ -94,8 +94,8 @@
           </div>
         </div>    
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="telf"><?php echo $lang['telf']; ?></label>
-          <div class="col-sm-10">
+          <label class="col-sm-3 control-label" for="telf"><?php echo $lang['telf']; ?></label>
+          <div class="col-sm-9">
             <div class="input-group">
             <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>              
               <input type="tel" class="form-control" id="telf" name="telefono">
@@ -103,13 +103,13 @@
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-2 control-label" for="comentario"><?php echo $lang['comentario']; ?></label>
-          <div class="col-sm-10">
-            <textarea class="form-control" rows="3" id="comentario" name="comentario"></textarea>
+          <label class="col-sm-3 control-label" for="comentario"><?php echo $lang['comentario']; ?> (*)</label>
+          <div class="col-sm-9">
+            <textarea class="form-control" rows="3" id="comentario" name="comentario" required></textarea>
           </div>
         </div>
         <div class="form-group">
-          <div class="col-sm-offset-2 col-sm-10">
+          <div class="col-sm-offset-3 col-sm-9">
             <button type="submit" class="btn btn-default btn-green" aria-label="Left Align">
               <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <?php echo $lang['enviar']; ?>
             </button>
@@ -128,4 +128,5 @@
     </div>
   </div>    
 </div>
+
 
