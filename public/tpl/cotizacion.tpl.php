@@ -81,10 +81,10 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_unia" name="cant_unia" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_unia" name="cant_unia" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_unia">
               <option value="Pulverizado" selected>Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -101,10 +101,10 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_chuchuhuasi" name="cant_chuchuhuasi" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_chuchuhuasi" name="cant_chuchuhuasi" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_chuchuhuasi">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -121,7 +121,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_tahuaru" name="cant_tahuaru" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_tahuaru" name="cant_tahuaru" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -141,7 +141,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_graviola" name="cant_graviola" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_graviola" name="cant_graviola" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -161,7 +161,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_chancapiedra" name="cant_chancapiedra" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_chancapiedra" name="cant_chancapiedra" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -181,7 +181,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_clavo" name="cant_clavo" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_clavo" name="cant_clavo" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -201,7 +201,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_sasha" name="cant_sasha" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_sasha" name="cant_sasha" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -221,7 +221,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_abuta" name="cant_abuta" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_abuta" name="cant_abuta" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
@@ -241,7 +241,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_palo" name="cant_palo" min="0" max="100" step="10" value="0">
+            <input class="form-control" type="number" id="cant_palo" name="cant_palo" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
             <select class="form-control">
