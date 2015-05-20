@@ -126,7 +126,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="#Cotización">                           
+                          <a href="<?php echo APP_DOMAIN ?>/cotizacion/">                           
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['cotizacion']; ?></p>

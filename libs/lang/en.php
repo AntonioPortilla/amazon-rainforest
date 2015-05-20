@@ -48,6 +48,12 @@ $lang = array(
 		'enviar' 			=> 'Send',
 		'contact_p1' 		=> 'Our team will be pleased to assist and answer any queries at the time you make the request.',
 		'contact_p2' 		=> 'Thank you for choosing Amazon Rainforest Products',
+		'cotizacion' 		=> 'Quote',
+		'select_products' 	=> 'Select the products that you need to list',
+		'productos' 		=> 'Products',
+	    'cantidad' 			=> 'Quantity',
+	    'presentacion' 		=> 'Presentation',
+		'info_empresa' 		=> 'Company information',
 		'derechos' 			=> 'All rights reserved'
 		);
 ?>

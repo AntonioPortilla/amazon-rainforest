@@ -50,6 +50,12 @@ $lang = array(
 	    'contact_p1' 		=> 'Nuestro equipo de trabajo estará complacido en atender  y responder cualquier 
 	    						consulta en el instante que usted realice la solicitud.',
 	    'contact_p2' 		=> 'Gracias por escoger Amazon Rainforest Products',
+	    'cotizacion' 		=> 'Cotización',
+	    'select_products' 	=> 'Seleccione los Productos que usted necesite cotizar',
+	    'productos' 		=> 'Productos',
+	    'cantidad' 			=> 'Cantidad',
+	    'presentacion' 		=> 'Presentación',
+	    'info_empresa' 		=> 'Información de su empresa',
 	    'derechos' 			=> 'Todos los derechos reservados'
     );
 ?>
