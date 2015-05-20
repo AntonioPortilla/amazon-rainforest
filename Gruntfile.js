@@ -38,6 +38,9 @@ module.exports = function(grunt) {
         }
       }
     },
+    jshint: {
+      all: ['Gruntfile.js', 'dev/js/script.js']
+    },
     stylus: {
         compile: {
             options: {
@@ -75,6 +78,7 @@ module.exports = function(grunt) {
 	// Default task(s).
 	grunt.registerTask('compile', ['stylus']);
 	grunt.registerTask('jalp', ['compile', 'watch']); 
-	grunt.registerTask('default', ['compile']);
+  grunt.registerTask('default', ['compile']);
+	grunt.registerTask('public', ['cssmin','uglify']);
 
 };
