@@ -100,7 +100,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="#Productos">                            
+                          <a href="<?php echo APP_DOMAIN ?>/productos/">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['productos']; ?></p>

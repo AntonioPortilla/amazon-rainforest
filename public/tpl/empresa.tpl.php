@@ -9,7 +9,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/chuchuhuasi.png" alt="chuchuhuasi">
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/chuchuhuasi.jpg" alt="chuchuhuasi">
           <div class="container">
             <div class="carousel-caption">
               <h1>Chuchuhuasi</h1>
@@ -18,7 +18,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/chancapiedra.png" alt="chancapiedra">
+          <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/chancapiedra.jpg" alt="chancapiedra">
           <div class="container">
             <div class="carousel-caption">
               <h1>Chancapiedra</h1>
@@ -27,7 +27,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/productos.png" alt="productos">
+          <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/productos.jpg" alt="productos">
           <div class="container">
             <div class="carousel-caption">
               <p><code>(Productos)</code></p>
@@ -35,7 +35,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/abuta.png" alt="abuta">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/abuta.jpg" alt="abuta">
           <div class="container">
             <div class="carousel-caption">
               <h1>Abuta</h1>
