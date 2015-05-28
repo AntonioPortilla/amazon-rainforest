@@ -73,7 +73,7 @@
         <li role="presentation"><a href="#chancapiedra" role="tab" data-toggle="tab">CHANCA PIEDRA</a></li>
         <li role="presentation"><a href="#clavo" role="tab" data-toggle="tab">CLAVO HUASCA</a></li>
         <li role="presentation"><a href="#jergon" role="tab" data-toggle="tab">JERGON SASHA</a></li>
-        <li role="presentation"><a href="#ubos" role="tab" data-toggle="tab">UBOS</a></li>
+        <li role="presentation"><a href="#ubos" role="tab" data-toggle="tab">ABUTA</a></li>
         <li role="presentation"><a href="#palo" role="tab" data-toggle="tab">PALO SANTO</a></li>
       </ul>   
     </div>
@@ -274,12 +274,337 @@
             </div>
           </div>
         </div>
-        <div class="tab-pane" id="graviola">graviola</div>
-        <div class="tab-pane" id="chancapiedra">chanca piedra</div>
-        <div class="tab-pane" id="clavo">clavo Huasca</div>
-        <div class="tab-pane" id="jergon">jergon </div>
-        <div class="tab-pane" id="ubos">ubos</div>
-        <div class="tab-pane" id="palo">palo santo</div>
+        <div class="tab-pane" id="graviola">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Insumo: hojas/Atomizadas, pulverizadas.
+                <p>
+                  <strong>Nombre comercial:</strong> Graviola
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> guanábano, guanábana, corosol, corrosal, anón, cachimán, guanábana, masasamba.
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Annona muricata L.
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  Árbol pequeño de 4 a 9 m de altura. Hojas simples, alternas, dísticas, pinnatinervias, de 6 a 20 cm 
+                  de largo por 2.5 a 6 cm de ancho. Flores: solitarias, amarillo verdosas. Fruto: ovoide-elipsoide, de 
+                  15 a 20 cm de largo x 10 a 15 cm de ancho, carnoso. 
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  Las hojas de la Graviola por sus propiedades es usada como quimioterapia natural además de ser la mejor 
+                  alternativa natural para combatir el cáncer, es antibacterial, antiparásitos, anti fungicida, desintoxica 
+                  completamente el cuerpo y es hipotensiva.
+                </p>
+                <p>
+                  <strong>Características Técnicas Graviola:</strong>
+                </p>
+                <p>
+                  <strong>PRINCIPIO ACTIVO:</strong>
+                </p>
+                <p>
+                  Alcaloides, ( Annonaceous Acetogenins ), Muricoreacin, Munhexocin C, Mono-tetrahydrofuran acetogenins, 
+                  Annomuricin E, Miricapentocin. 
+                </p>
+                <div class="row">
+                  <div class="col-lg-6">
+                    <strong>CARACTERÍSTICAS TÉCNICAS:</strong><br>
+                    Apariencia: Producto en polvo fino <br>
+                    Color     : Característico. <br>
+                    Olor      : Característico. <br>
+                    Sabor     : Característico.
+                  </div>
+                  <div class="col-lg-6">
+                    <strong>METALES PESADOS</strong><br>
+                    Plomo (Como Pb)     : No más de 10 ppm <br>
+                    Arsénico (Como As)  : No más de 3 ppm. <br>
+                    Mercurio            : No más de 1 ppm. <br>
+                    Cadmio              : No más de 1 ppm.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        <div class="tab-pane" id="chancapiedra">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Insumo: atomizado/pulverizada.
+                <p>
+                  <strong>Nombre comercial:</strong> ChancaPiedra
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> Chanca piedra, chancapiedra blanca, niruri, piedra con piedra, sacha foster, rosillo.
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Phyllanthus niruri L.
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  Planta herbácea, silvestre, anual, de unos 30 a 60 cm de altura, tallo erguido; hojas de 7-12cm de 
+                  largo, alternas, sésiles oblongas; flores pequeñas de color blanquecino-verdoso, apétalas monóicas; 
+                  frutos de 2-3mm de diámetro. 
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  Las hojas tienen propiedades Antiinflamatorias, cicatrizantes, diuréticos, digestivas, emenagogos, 
+                  antihelmínticas, galactagogas en cálculos biliares.
+                </p>
+                <p>
+                  <strong>Características Técnicas Chancapiedra:</strong>
+                </p>
+                <p>
+                  <strong>PRINCIPIO ACTIVO:</strong>
+                </p>
+                <p>
+                  Alcaloides, Esteroides, Flavonoides, Triterpenos, Terpenos, Lignanos, Salicilato de metilo, 
+                  Taninos, Vitamina C, Lípidos ( Acido linoleico, ácido linolenico, etc. ), Acido carboxilico, 
+                  Astralgina, Nirantina, Nirurina, etc. 
+                </p>
+                <div class="row">
+                  <div class="col-lg-6">
+                    <strong>CARACTERÍSTICAS TÉCNICAS:</strong><br>
+                    Apariencia: Producto en polvo fino <br>
+                    Color     : Característico. <br>
+                    Olor      : Característico. <br>
+                    Sabor     : Característico.
+                  </div>
+                  <div class="col-lg-6">
+                    <strong>METALES PESADOS</strong><br>
+                    Plomo (Como Pb)     : No más de 10 ppm <br>
+                    Arsénico (Como As)  : No más de 3 ppm. <br>
+                    Mercurio            : No más de 1 ppm. <br>
+                    Cadmio              : No más de 1 ppm.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="clavo">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Insumo: Corteza pulverizada.
+                <p>
+                  <strong>Nombre comercial:</strong> Clavo Huasca
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> Canela, inejkeu, rabo nishi (shipibo-conibo).
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Tynnanthus panurensis.
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  La planta es un bejuco rastrero. Presenta lenticelas oscuras. Hojas con 2 a 3 foliolos y un zarcillo, 
+                  de forma elíptica u oblongo elíptica, de ápice acuminado o agudo y base redondeada truncada. 
+                  Inflorescencias axilares en panículas, brácteas con tricomas diminutos y escamas. 
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  Es usado como digestivo, para fiebres, para reumatismo y artritis y como tónico y calmante muscular 
+                  (tonifica, equilibra y fortalece las funciones corporales en general). Junto con otras cortezas, 
+                  sirve para elaborar los licores amazónicos.
+                </p>
+                <p>
+                  <strong>Características Técnicas Clavo Huasca:</strong>
+                </p>
+                <p>
+                  <strong>COMPOSICIÓN:</strong>
+                </p>
+                <p>
+                  Ácidos fijos fuertes, auronas, bases cuaternarias, chalconas, esteroides, fenoles simples, 
+                  flavanonas, heterópsidos cianogénicos, leucoantocianidinas, taninos pirogálicos, eugenol y 
+                  resinas. 
+                </p>                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="jergon">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Partes utilizadas: planta <br>
+                  Insumo: pulverizado.
+                <p>
+                  <strong>Nombre comercial:</strong> Jergon Sacha
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> Hierba de jergón; Sacha jergón; Hurignpe (amarakaeri), Mágoro (machiguenga).
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Dracontium loretense Krause.
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  Arbusto de 40 centímetros de largo que emergen de un tallo coloreado como el de los dibujos del 
+                  cuerpo de la serpiente Jergón, le debe la mitad de su nombre a este ofidio. Ya que el vocablo 
+                  Jergón unido a la palabra Sacha, significa en quechua “casi igual a una serpiente Jergón”. 
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  Permite revertir las infecciones bacterianas asociadas al VIH, sirviendo como un gran estimulante 
+                  inmunológico y antiviral. Constituye también un potente anticanceroso, antitumoral y antiinflamatorio.
+                </p>
+                <p>
+                  <strong>Características Técnicas Jergon Sacha:</strong>
+                </p>
+                <p>
+                  <strong>Composición Química del Jergón Sacha</strong>
+                </p>
+                <p>
+                  Dentro de los compuestos químicos del cormo desecado destacan los alcaloides, saponinas, 
+                  cumarinas,  azúcares reductores, saponinas, mucílagos, flavonoides y glucósidos, asimismo, 
+                  en el extracto liofilizado se han encontrado: alcaloides, azúcares reductores, saponinas, 
+                  flavonoides y glucósidos.
+                </p>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="ubos">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Parte utilizada: tallos,raiz,corteza. <br>
+                  Insumo: trozado. Micro pulverizado
+                <p>
+                  <strong>Nombre comercial:</strong> Abuta
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> Abuta, chancabexus, caimitillo, motelo sanango.
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Abuta grandifolia (Mart.) Sandw.
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  Liana alta, dioica, tiene un tallo más o menos aplastado, que crece en espiral. 
+                  Sus hojas son simples, alternas, de un verde pálido. Las nervaduras son palmadas. 
+                  Las inflorescencias son en panículas de 2 a 8 cm de longitud. 
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  La raíz se indica como anti anémico, antihemorrágico menstrual y antirreumático, el 
+                  tallo para cólicos menstruales y como hipocolesterolémiante, antiinflamatorio y afrodisíaco, 
+                  la corteza se usa sobre todo como anti malario. Es reguladora del sistema digestivo.
+                </p>
+                <p>
+                  <strong>Características Técnicas Abuta:</strong>
+                </p>
+                <p>
+                  <strong>Composición</strong>
+                </p>
+                <p>
+                  Alcaloides bencil isoquinolínicos, palmitina2 y otros derivados como gradirubrine, 
+                  imerubrine e isomerubrine) (Torres y Rico, 1994).
+                </p>
+                <p>
+                  Alcaloides bisbenzylisoquinolina: Krukovine, limacine 22 <br>
+                  Flavonoides: Flavonas, 4,7-dihidroxiflavanonanol13. <br>
+                  Saponinas. <br>
+                  Terpenos. <br>
+                  Taninos.
+
+                </p>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="palo">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="prod_desc">
+                <p>
+                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  Insumo: madera trozada o cortada.
+                <p>
+                  <strong>Nombre comercial:</strong> Palo Santo
+                </p>
+                <p>
+                  <strong>Nombre común:</strong> Palo santo, madera sagrada, quebracho.
+                </p>
+                <p>
+                  <strong>Nombre científico:</strong> Bursera graveolens
+                </p>
+                <p>
+                  <strong>DESCRIPCIÓN:</strong>
+                </p>
+                <p>
+                  De unos 18 metros de altura, es un árbol mediano con 
+                  copa de hojas pequeñas, gran cantidad de ramas y frutos en forma de capsula color verde oscuro.   
+                </p>
+                <p>
+                  <strong>PROPIEDADES Y USOS:</strong>
+                </p>
+                <p>
+                  Al combustionar, desprende un humo que  tiene una serie de propiedades espirituales, 
+                  que lo hacen ideal para la meditación, relajación, armonía en los encuentros íntimos 
+                  de pareja, relajar situaciones de tensión dentro de una familia, etc. También su humo 
+                  mágico se puede utilizar para limpiar de energías negativas de nuestra vivienda, 
+                  habitaciones, oficina, etc.
+                </p>
+                <p>
+                  <strong>Características Técnicas Palo Santo:</strong>
+                </p>
+                <p>
+                  Acertadamente el árbol fue bautizado  como Bursera Graveloens, nombre científico que significa “bolsa llena de aceite’’.
+                </p>
+                <p>
+                  Los estudios realizados han demostrado que en  su composición química se encuentran elementos antigripales (Alfa-Pinene), 
+                  antisépticos (Terminen-4-OL), sedantes (Carvone, que también es insecticida) y antivirales (Sesquiterpeno), 
+                  entre otros. Por ello, y con justa razón muchos afirman que ésta es una verdadera fuente de medicina natural.
+                </p>
+                <p>
+                  Pero eso no es todo, además de los componentes ya nombrados, existe uno que destaca del resto. Estamos 
+                  hablando  del Limonene, cuyo 62,88% de presencia en el palo santo podría ayudar a prevenir tumores de 
+                  estómago, hígado, mama y piel, todo esto como parte de sus propiedades de limpieza, tanto física como 
+                  espiritual.
+                </p>               
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
