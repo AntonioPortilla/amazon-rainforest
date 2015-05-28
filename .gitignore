@@ -6,7 +6,8 @@ composer.json
 composer.lock
 prueba.php
 Thumbs.db
-include/
+include/class/cotizando.php
+include/class/send.php
 bower_components/
 node_modules/
 vendor/
