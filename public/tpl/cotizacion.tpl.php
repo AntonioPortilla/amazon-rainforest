@@ -124,7 +124,7 @@
             <input class="form-control" type="number" id="cant_tahuaru" name="cant_tahuaru" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_tahuaru">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -144,7 +144,7 @@
             <input class="form-control" type="number" id="cant_graviola" name="cant_graviola" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_graviola">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -164,7 +164,7 @@
             <input class="form-control" type="number" id="cant_chancapiedra" name="cant_chancapiedra" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_chancapiedra">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -184,7 +184,7 @@
             <input class="form-control" type="number" id="cant_clavo" name="cant_clavo" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_clavo">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -204,7 +204,7 @@
             <input class="form-control" type="number" id="cant_sasha" name="cant_sasha" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_sasha">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -224,7 +224,7 @@
             <input class="form-control" type="number" id="cant_abuta" name="cant_abuta" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_abuta">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
@@ -244,7 +244,7 @@
             <input class="form-control" type="number" id="cant_palo" name="cant_palo" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control">
+            <select class="form-control" name="pre_palo">
               <option value="Pulverizado">Pulverizado</option>
               <option value="Uña de Gato">Uña de Gato</option>
               <option value="Chuchuhuasi">Chuchuhuasi</option>
