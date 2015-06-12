@@ -2,7 +2,7 @@
 $lang = array(
 	    'inicio' 			=> 'Inicio',
 	    'productos' 		=> 'Productos',
-	    'nosotros' 			=> 'Nosotros',
+	    'nosotros' 			=> 'Nuestra Historia',
 	    'empresa' 			=> 'Empresa',
 	    'nuestra_empresa' 	=> 'Nuestra Empresa',
 	    'cotizacion' 		=> 'Cotización',

@@ -2,11 +2,11 @@
 $lang = array(
 		'inicio' 			=> 'Home',
 		'productos' 		=> 'Products',
-		'nosotros' 			=> 'Us',
+		'nosotros' 			=> 'Our Story ',
 		'empresa' 			=> 'Business',
-		'nuestra_empresa' 	=> 'Our Company',
+		'nuestra_empresa' 	=> 'Company Info',
 		'cotizacion' 		=> 'Quote',
-		'contactenos'		=> 'Contact',
+		'contactenos'		=> 'Contact Us',
 		'siguenos' 			=> 'Follow Us',
 		'historia' 			=> 'Our History',
 		'historia_desc' 	=> 'Our company was born in 2013 thanks to the initiative of a group of professionals 
@@ -38,7 +38,7 @@ $lang = array(
 		'empresa_p2' 		=> 'The company has the support and advice of PromPeru, an institution of the Peruvian 
 								State, which is responsible for promoting and advising throughout the export route 
 								to the companies offering their products to the world market.',
-		'oficina' 			=> 'Main Office',
+		'oficina' 			=> 'Head Office',
 		'telf' 				=> 'Phone',
 		'correo' 			=> 'E-Mail',
 		'contacto' 			=> 'Contact',

@@ -87,19 +87,6 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/nosotros/">
-                            <div class="menu">
-                              <div class="capa1">
-                                <p class="p1"><?php echo $lang['nosotros']; ?></p>
-                              </div>
-                              <div class="capa2">
-                                <p class="p2"><?php echo $lang['nosotros']; ?></p>
-                              </div>
-                            </div>
-                          </a>
-                        </li>
-                        <li>
-                          <span class="linea"></span>
                           <a href="<?php echo APP_DOMAIN ?>/productos/">                            
                             <div class="menu">
                               <div class="capa1">
@@ -113,13 +100,26 @@
                         </li>
                         <li>
                           <span class="linea"></span>
+                          <a href="<?php echo APP_DOMAIN ?>/nosotros/">
+                            <div class="menu">
+                              <div class="capa1">
+                                <p class="p1"><?php echo $lang['nosotros']; ?></p>
+                              </div>
+                              <div class="capa2">
+                                <p class="p2"><?php echo $lang['nosotros']; ?></p>
+                              </div>
+                            </div>
+                          </a>
+                        </li>
+                        <li>
+                          <span class="linea"></span>
                           <a href="<?php echo APP_DOMAIN ?>/empresa/">                            
                             <div class="menu">
                               <div class="capa1">
-                                <p class="p1"><?php echo $lang['empresa']; ?></p>
+                                <p class="p1"><?php echo $lang['nuestra_empresa']; ?></p>
                               </div>
                               <div class="capa2">
-                                <p class="p2"><?php echo $lang['empresa']; ?></p>
+                                <p class="p2"><?php echo $lang['nuestra_empresa']; ?></p>
                               </div>
                             </div>
                           </a>
