@@ -58,6 +58,12 @@
 <div class="container nosotros">
   <div class="row title">
     <div class="col-lg-12">
+      <ul class="breadcrumb">
+        <li>
+          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+        </li>
+        <li class="active"><?php echo $lang['nuestra_empresa']; ?></li>
+      </ul>
       <fieldset>
         <legend> <span><?php echo $lang['nuestra_empresa']; ?></span> </legend>
       </fieldset>      

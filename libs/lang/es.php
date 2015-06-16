@@ -56,6 +56,31 @@ $lang = array(
 	    'cantidad' 			=> 'Cantidad',
 	    'presentacion' 		=> 'Presentación',
 	    'info_empresa' 		=> 'Información de su empresa',
-	    'derechos' 			=> 'Todos los derechos reservados'
+	    'derechos' 			=> 'Todos los derechos reservados',
+	    'trozado' 			=> 'Trozado',
+		'triturado' 		=> 'Triturado',
+		'pulverizado' 		=> 'Pulverizado',
+		'extracto' 			=> 'Extracto',
+		'otro' 				=> 'Otro',
+		'hojas' 			=> 'Hojas Secas',
+		'trozado' 			=> 'Trozado',
+		'viruta' 			=> 'Viruta',
+		'desc_pro'			=> '<p>La Selva Tropical Amazonica cuenta con una amplia variedad de plantas, 
+								hierbas, cortezas y frutos exóticos, estos son utilizados en la industria 
+								farmacéutica, cosmética, nutricional y  fitoterapeutica.</p>
+								<p>Extraemos estos insumos mediante un adecuado Plan de Manejo Forestal, 
+								a través de una extracción responsable y sostenible, cuidando el medio ambiente.</p>
+								<p>AMRAP interviene en el proceso de cultivo, recolección, transformación y 
+								comercialización de estos insumos naturales extraidos de nuestra Amazonia Peruana.</p>
+								<p>Los  productos ofrecidos como insumos naturales debidamente seleccionados y 
+								desinfectados son :</p><p>Uña de Gato (corteza y hojas), Chuchuhuasi 
+								(corteza), Graviola (Hojas de Guanabana), Tahuari- Pau D` Arco (corteza), 
+								hancaPiedra (planta), Jergon Sacha (raiz), Clavo Huasca (tallo) , Abuta 
+								(tallo), Barbasco (raíz), Molle(planta ) , Palo Santo (tallo).</p><p>Nuestros 
+								insumos forestales no maderables son ofrecidos a la industria Farmacéutica, 
+								Cosmética y Nutricional; estos son ofrecidos en procesos de transformación 
+								primaria.</p><p>Ofrecemos presentaciones de estos insumos en forma Trozada, 
+								Triturada, Pulverizada Micropulverizada, Extracto Atomizado, materia prima 
+								seca, otros.</p>'
     );
 ?>

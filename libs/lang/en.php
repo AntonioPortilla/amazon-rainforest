@@ -3,7 +3,7 @@ $lang = array(
 		'inicio' 			=> 'Home',
 		'productos' 		=> 'Products',
 		'nosotros' 			=> 'Our Story ',
-		'empresa' 			=> 'Business',
+		'empresa' 			=> 'Company',
 		'nuestra_empresa' 	=> 'Company Info',
 		'cotizacion' 		=> 'Quote',
 		'contactenos'		=> 'Contact Us',
@@ -39,12 +39,12 @@ $lang = array(
 								State, which is responsible for promoting and advising throughout the export route 
 								to the companies offering their products to the world market.',
 		'oficina' 			=> 'Head Office',
-		'telf' 				=> 'Phone',
+		'telf' 				=> 'Phone Number',
 		'correo' 			=> 'E-Mail',
 		'contacto' 			=> 'Contact',
-		'nombres' 			=> 'Names',
+		'nombres' 			=> 'Your Name',
 		'cargo' 			=> 'Office',
-		'comentario' 		=> 'Comment',
+		'comentario' 		=> 'Comments',
 		'enviar' 			=> 'Send',
 		'contact_p1' 		=> 'Our team will be pleased to assist and answer any queries at the time you make the request.',
 		'contact_p2' 		=> 'Thank you for choosing Amazon Rainforest Products',
@@ -54,6 +54,29 @@ $lang = array(
 	    'cantidad' 			=> 'Quantity',
 	    'presentacion' 		=> 'Presentation',
 		'info_empresa' 		=> 'Company information',
-		'derechos' 			=> 'All rights reserved'
+		'derechos' 			=> 'All rights reserved',
+		'trozado' 			=> 'Chopped',
+		'triturado' 		=> 'Crushed',
+		'pulverizado' 		=> 'powder',
+		'extracto' 			=> 'Extract',
+		'otro' 				=> 'Other',
+		'hojas' 			=> 'Dry leaves',
+		'trozado' 			=> 'Sticks',
+		'viruta' 			=> 'Chips',
+		'desc_pro'			=> '<p>The Amazon Rainforest has a wide variety of plants, herbs, bark and 
+								exotic fruits, these are used in the pharmaceutical, cosmetic, nutritional 
+								and Fitoterapeutic.</p><p>We extract these inputs through proper forest 
+								management plan, through responsible and sustainable harvesting, caring for 
+								the environment.</p><p>AMRAP involved in the process of growing, harvesting, 
+								processing and marketing of these natural ingredients extracted from our 
+								Peruvian Amazon.</p><p>The products offered as carefully selected natural 
+								ingredients and disinfected are:</p><p>Cats Claw (bark and leaves), 
+								Chuchuhuasi (bark), Graviola (soursop leaves), Tahuari- Arco Pau D` (bark), 
+								Breaker (ground), Jergon Sacha (root), Clavo Huasca (stem), Abuta ( stem), 
+								Mullein (root), Molle (ground), Palo Santo (stem).</p><p>Our non-timber 
+								forest inputs are supplied to the Pharmaceutical, Cosmetics and Nutrition 
+								industry; These are offered in primary processing.</p><p>We offer presentations 
+								of these inputs in the form Trozada, Crushed, Powdered micropulverized, 
+								atomized extract, dry raw material, other.</p>'
 		);
 ?>

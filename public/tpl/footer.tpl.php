@@ -11,7 +11,7 @@
                 <?php echo $lang['correo']; ?>: sales@amazonrainforestproducts.com <br>
                 Jr. Moore 151 dpto. 504 / Magdalena del Mar / <br>Lima 17 Perú
               </p>
-              <span class="contact"><?php echo $lang['contactenos']; ?></span>
+              <span class="contact"><a href="<?php echo APP_DOMAIN; ?>/contacto/"><?php echo $lang['contactenos']; ?></a></span>
             </div>
             <div class="col-xs-12 col-sm-1 col-md-1 col-lg-4">      
             </div>
@@ -41,6 +41,11 @@
                 <li>
                   <a href="#" class="social-googleplus">
                     <img src="<?php echo IMAGE_PATH; ?>/gp.png" alt="google plus">
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="social-instagram">
+                    <img src="<?php echo IMAGE_PATH; ?>/ins.png" alt="instagram">
                   </a>
                 </li>
               </ul>

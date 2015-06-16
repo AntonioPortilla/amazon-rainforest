@@ -58,6 +58,12 @@
 <div class="container cotizacion">
   <div class="row title">
     <div class="col-lg-12">
+      <ul class="breadcrumb">
+        <li>
+          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+        </li>
+        <li class="active"><?php echo $lang['cotizacion']; ?></li>
+      </ul>
       <fieldset>
         <legend> <span><?php echo $lang['cotizacion']; ?></span> </legend>
       </fieldset>      
@@ -85,10 +91,11 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_unia">
-              <option value="Pulverizado" selected>Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra">Chancapiedra</option>
+              <option value="<?php echo $lang['trozado']; ?>" selected><?php echo $lang['trozado']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>
+              <option value="<?php echo $lang['extracto']; ?>"><?php echo $lang['extracto']; ?></option>
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -105,10 +112,11 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_chuchuhuasi">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['trozado']; ?>" selected><?php echo $lang['trozado']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>
+              <option value="<?php echo $lang['extracto']; ?>"><?php echo $lang['extracto']; ?></option>
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -116,7 +124,7 @@
           <div class="col-sm-6">
             <div class="checkbox">
               <label>
-                <input type="checkbox"> Tahuaru
+                <input type="checkbox"> Tahuari
               </label>
             </div>
           </div>
@@ -125,10 +133,11 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_tahuaru">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['trozado']; ?>" selected><?php echo $lang['trozado']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>
+              <option value="<?php echo $lang['extracto']; ?>"><?php echo $lang['extracto']; ?></option>
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -145,10 +154,10 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_graviola">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['hojas']; ?>" selected><?php echo $lang['hojas']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -165,10 +174,10 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_chancapiedra">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['hojas']; ?>" selected><?php echo $lang['hojas']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -184,11 +193,9 @@
             <input class="form-control" type="number" id="cant_clavo" name="cant_clavo" min="0" max="100" step="1" value="0">
           </div>
           <div class="col-sm-3">
-            <select class="form-control" name="pre_clavo">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+            <select class="form-control" name="pre_clavo">              
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -205,10 +212,8 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_sasha">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -225,10 +230,8 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_abuta">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>
@@ -245,10 +248,10 @@
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_palo">
-              <option value="Pulverizado">Pulverizado</option>
-              <option value="Uña de Gato">Uña de Gato</option>
-              <option value="Chuchuhuasi">Chuchuhuasi</option>
-              <option value="Chancapiedra" selected>Chancapiedra</option>
+              <option value="<?php echo $lang['hojas']; ?>" selected><?php echo $lang['trozado']; ?></option>
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['viruta']; ?></option>
+              <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
         </div>        

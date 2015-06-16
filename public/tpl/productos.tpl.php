@@ -1,41 +1,21 @@
 <div class="container bg-arp">
   <div class="row">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="carouselProd" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#carouselProd" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselProd" data-slide-to="1"></li>
+        <li data-target="#carouselProd" data-slide-to="2"></li>
+        <li data-target="#carouselProd" data-slide-to="3"></li>
+        <li data-target="#carouselProd" data-slide-to="4"></li>
+        <li data-target="#carouselProd" data-slide-to="5"></li>
+        <li data-target="#carouselProd" data-slide-to="6"></li>
+        <li data-target="#carouselProd" data-slide-to="7"></li>
+        <li data-target="#carouselProd" data-slide-to="8"></li>
+        <li data-target="#carouselProd" data-slide-to="9"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/chuchuhuasi.jpg" alt="chuchuhuasi">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Chuchuhuasi</h1>
-              <p><code>(Maytenus Macrocarpa)</code></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/chancapiedra.jpg" alt="chancapiedra">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Chancapiedra</h1>
-              <p><code>(Phyllanthus Niruri)</code></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/productos.jpg" alt="productos">
-          <div class="container">
-            <div class="carousel-caption">
-              <p><code>(Productos)</code></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/abuta.jpg" alt="abuta">
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/products/products.abutaBanner.jpg" alt="Abuta">
           <div class="container">
             <div class="carousel-caption">
               <h1>Abuta</h1>
@@ -43,12 +23,91 @@
             </div>
           </div>
         </div>
+        <div class="item">
+          <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/products/products.catsClawBanner.jpg" alt="cats">
+          <div class="container">
+            <div class="carousel-caption">              
+              <p><code>(Cats Claw)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/products/products.chancapiedraBanner.jpg" alt="Chancapiedra">
+          <div class="container">
+            <div class="carousel-caption">
+              <p><code>(Chancapiedra)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.ChuchuhuasiBanner.jpg" alt="Chuchuhuasi">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Chuchuhuasi</h1>
+              <p><code>(Maytenus macrocarpa)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.clavoHuascaBanner.jpg" alt="Clavo">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Clavo</h1>
+              <p><code>(Clavo Huasca)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Graviola-banner.jpg" alt="Graviola">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Graviola</h1>
+              <p><code>(Annona muricata L)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Jergon-SachaBanner.jpg" alt="Sacha">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Jergon</h1>
+              <p><code>(Jergon Sacha)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.PaloSantoBanner.jpg" alt="Palo Santo">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Palo</h1>
+              <p><code>(Palo Santo)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Pau-D-ArcoBanner.jpg" alt="Pau">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Pau</h1>
+              <p><code>(Pau D'Arco)</code></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Unia-de-gatoBanner.jpg" alt="Uña de gata">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Uña</h1>
+              <p><code>Uña de gato</code></p>
+            </div>
+          </div>
+        </div>
       </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <a class="left carousel-control" href="#carouselProd" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Atrás</span>
       </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <a class="right carousel-control" href="#carouselProd" role="button" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
@@ -58,9 +117,20 @@
 <div class="container cotizacion">
   <div class="row title">
     <div class="col-lg-12">
+      <ul class="breadcrumb">
+        <li>
+          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+        </li>
+        <li class="active"><?php echo $lang['productos']; ?></li>
+      </ul>
       <fieldset>
         <legend> <span><?php echo $lang['productos']; ?></span> </legend>
       </fieldset>      
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <?php echo $lang['desc_pro']; ?>
     </div>
   </div>
   <div class="row productos">
@@ -80,7 +150,15 @@
     <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
       <div class="tab-content">
         <div class="tab-pane active" id="unia">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/corteza-unia.jpg" alt="uña de gato">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/arina-unia.jpg" alt="uña de gato">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -132,15 +210,7 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row row-2-unia">
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/corteza-unia.jpg" alt="uña de gato">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/arina-unia.jpg" alt="uña de gato">
-            </div>
-          </div>         
+          </div>                   
         </div>
         <div class="tab-pane" id="chuchuhuasi">
           <div class="row">
