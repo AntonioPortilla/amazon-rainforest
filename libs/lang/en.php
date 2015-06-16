@@ -2,13 +2,16 @@
 $lang = array(
 		'inicio' 			=> 'Home',
 		'productos' 		=> 'Products',
+		'cont' 				=> 'contactenos-en',
 		'nosotros' 			=> 'Our Story ',
 		'empresa' 			=> 'Company',
 		'nuestra_empresa' 	=> 'Company Info',
 		'cotizacion' 		=> 'Quote',
+		'coti' 				=> 'quote',
 		'contactenos'		=> 'Contact Us',
 		'siguenos' 			=> 'Follow Us',
 		'historia' 			=> 'Our History',
+		'hist' 				=> 'story',
 		'historia_desc' 	=> 'Our company was born in 2013 thanks to the initiative of a group of professionals 
 								entrepreneurs who decided to travel to the Amazon Rainforest of Peru in search of products 
 								natural with healing and beneficial to humanity properties. <br>

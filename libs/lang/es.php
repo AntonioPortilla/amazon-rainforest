@@ -2,13 +2,16 @@
 $lang = array(
 	    'inicio' 			=> 'Inicio',
 	    'productos' 		=> 'Productos',
+	    'cont' 				=> 'contactenos',
 	    'nosotros' 			=> 'Nuestra Historia',
 	    'empresa' 			=> 'Empresa',
 	    'nuestra_empresa' 	=> 'Nuestra Empresa',
 	    'cotizacion' 		=> 'Cotización',
+	    'coti' 				=> 'cotizacion',
 	    'contactenos' 		=> 'Contáctenos',
 	    'siguenos' 			=> 'Síguenos en',
 	    'historia' 			=> 'Nuestra Historia',
+	    'hist' 				=> 'historia',
 	    'historia_desc' 	=> 'Nuestra empresa nació en el  2013 gracias a la iniciativa de un grupo de profesionales
 		    					emprendedores que decidieron viajar a la Selva Amazónica del Perú en busca de productos 
 						        naturales con propiedades curativas y beneficiosas para la humanidad. <br>
