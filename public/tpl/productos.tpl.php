@@ -152,10 +152,10 @@
         <div class="tab-pane active" id="unia">
           <div class="row row-1-unia">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/corteza-unia.jpg" alt="uña de gato">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['unia'] ?>.jpg" alt="uña de gato">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/arina-unia.jpg" alt="uña de gato">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['unia_pulverizado'] ?>.jpg" alt="uña de gato">
             </div>
           </div>
           <div class="row row-2-unia">
@@ -213,7 +213,15 @@
           </div>                   
         </div>
         <div class="tab-pane" id="chuchuhuasi">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['chuchu'] ?>.jpg" alt="uña de gato">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['chuchu_pul'] ?>.jpg" alt="uña de gato">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -273,18 +281,15 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row row-2-unia">
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/arina-chuchuhuasi.jpg" alt="uña de gato">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/corteza-chuchuhuasi.jpg" alt="uña de gato">
-            </div>
-          </div>
+          </div>          
         </div>
         <div class="tab-pane" id="tahuari">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['tahuari'] ?>.jpg" alt="tahuari">
+            </div>            
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -334,18 +339,18 @@
                 </p>               
               </div>
             </div>
-          </div>
-          <div class="row row-2-unia">
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/flor-tahuari.jpg" alt="uña de gato">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/corteza-tahuari.jpg" alt="uña de gato">
-            </div>
-          </div>
+          </div>          
         </div>
         <div class="tab-pane" id="graviola">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['graviola'] ?>.jpg" alt="uña de gato">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['graviola_polvo'] ?>.jpg" alt="uña de gato">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -404,11 +409,18 @@
                 </div>
               </div>
             </div>
-          </div>
-          
+          </div>          
         </div>
         <div class="tab-pane" id="chancapiedra">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['chancapiedra'] ?>.jpg" alt="chancapiedra">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['chancapiedra_polvo'] ?>.jpg" alt="chancapiedra polvo">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -470,7 +482,15 @@
           </div>
         </div>
         <div class="tab-pane" id="clavo">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['clavo'] ?>.jpg" alt="clavo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['clavo_polvo'] ?>.jpg" alt="clavo polvo">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -517,7 +537,12 @@
           </div>
         </div>
         <div class="tab-pane" id="jergon">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['jergon'] ?>.jpg" alt="jergon">
+            </div>            
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -566,7 +591,12 @@
           </div>
         </div>
         <div class="tab-pane" id="ubos">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['abuta'] ?>.jpg" alt="abuta">
+            </div>            
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
@@ -622,7 +652,15 @@
           </div>
         </div>
         <div class="tab-pane" id="palo">
-          <div class="row">
+          <div class="row row-1-unia">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['palo'] ?>.jpg" alt="palo santo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['palo_polvo'] ?>.jpg" alt="palo santo">
+            </div>
+          </div>
+          <div class="row row-2-unia">
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>

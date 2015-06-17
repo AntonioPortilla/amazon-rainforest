@@ -64,7 +64,7 @@
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/chancapiedra.jpg" alt="chancapiedra" width="95%" />
         </a>
       </div>
-      <h2>Cat'sClawPowder</h2>
+      <h2>Chancapiedra</h2>
     </div>
     <div class="col-lg-4">
       <div class="elemento">
@@ -73,7 +73,7 @@
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/graviola.jpg" alt="graviola" width="95%" />
         </a>
       </div>
-      <h2>Produtcs.Pau'darco</h2>
+      <h2>Graviola</h2>
     </div>
     <div class="col-lg-4">
       <div class="elemento">
@@ -82,7 +82,7 @@
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/palo.jpg" alt="palo santo" width="95%" />
         </a>
       </div>
-      <h2>Palo Santo Stikcs</h2>
+      <h2>Palo Santo</h2>
     </div>
   </div>    
 </div>
