@@ -45,18 +45,12 @@
   </div> 
   <div class="row comunidades">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['plantas']; ?></h3>
-      <p>
-        <?php echo $lang['plantas_desc']; ?>.
-      <p><br><br>
-      <img src="<?php echo IMAGE_PATH; ?>/plantas.jpg" alt="Plantas">
+      <h3><?php echo $lang['certificaciones']; ?></h3>
+      <p></p>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['comunidades']; ?></h3>
-      <p>
-        <?php echo $lang['comunidades_desc']; ?>.
-      </p><br>
-      <img src="<?php echo IMAGE_PATH; ?>/comunidades-nativas.jpg" alt="Comunidades Nativas">
+      <h3><?php echo $lang['procesos']; ?></h3>
+      <p></p>
     </div>
   </div>   
 </div>

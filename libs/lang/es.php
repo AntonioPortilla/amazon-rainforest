@@ -27,6 +27,21 @@ $lang = array(
 	    'siguenos' 			=> 'Síguenos en',
 	    'historia' 			=> 'Nuestra Historia',
 	    'hist' 				=> 'historia',
+	    'certificaciones'	=> 'Certificaciones',
+	    'procesos' 			=> 'Procesos',
+	    'nomUnia' 			=> 'Uña de Gato',
+	    'info_basic' 		=> 'INFORMACIÓN BÁSICA',
+	    'nom_com' 			=> 'Nombre Comercial',
+	    'nom_comum' 		=> 'Nombre Común',
+	    'nom_cien' 			=> 'Nombre Científico',
+	    'general_desc' 		=> 'DESCRIPCIÓN GENERAL',
+	    'prop_usos' 		=> 'PROPIEDADES Y USOS',
+	    'car_tec' 			=> 'Características Técnicas',
+	    'prin_act' 			=> 'PRINCIPIO ACTIVO',
+	    'met_pesados' 		=> 'METALES PESADOS',
+	    'carac' 			=> 'Características',
+	    'p_unia' 			=> 'Es una planta trepadora y espinosa de uso medicinal. Es originaria de la selva peruana. 
+	    						Su nombre se debe a la presencia en la planta de espinas curvas, con forma de gancho',
 	    'historia_desc' 	=> 'Nuestra empresa nació en el  2013 gracias a la iniciativa de un grupo de profesionales
 		    					emprendedores que decidieron viajar a la Selva Amazónica del Perú en busca de productos 
 						        naturales con propiedades curativas y beneficiosas para la humanidad. <br>

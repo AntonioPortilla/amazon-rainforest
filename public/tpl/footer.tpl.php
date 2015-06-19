@@ -19,32 +19,32 @@
               <p><?php echo $lang['siguenos']; ?>:</p>
               <ul class="social">
                 <li>
-                  <a href="#" class="social-facebook">
+                  <a href="https://www.facebook.com/amazonrainforestproducts" target="_blank" class="social-facebook">
                     <img src="<?php echo IMAGE_PATH; ?>/fb.png" alt="facebook">
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="social-twitter">
+                  <a href="https://twitter.com/AmazonianProd" target="_blank" class="social-twitter">
                     <img src="<?php echo IMAGE_PATH; ?>/tw.png" alt="Twitter">
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="social-youtube">
+                  <a href="#youtube" class="social-youtube">
                     <img src="<?php echo IMAGE_PATH; ?>/yt.png" alt="youtube">
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="social-pinterest">
+                  <a href="#Pinterest" class="social-pinterest">
                     <img src="<?php echo IMAGE_PATH; ?>/pr.png" alt="Pinterest">
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="social-googleplus">
+                  <a href="#google" class="social-googleplus">
                     <img src="<?php echo IMAGE_PATH; ?>/gp.png" alt="google plus">
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="social-instagram">
+                  <a href="https://instagram.com/amazonianherbs" target="_blank" class="social-instagram">
                     <img src="<?php echo IMAGE_PATH; ?>/ins.png" alt="instagram">
                   </a>
                 </li>

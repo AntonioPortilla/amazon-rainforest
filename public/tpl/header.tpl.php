@@ -26,19 +26,19 @@
                   <div class="social-media">
                     <ul>
                       <li>
-                        <a href="#blog">
+                        <a href="http://lifewithnature1.blogspot.com" target="_blank">
                           <em><span>Blog</span></em>
                           <img src="<?php echo IMAGE_PATH; ?>/blog.png" alt="Blog">
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.facebook.com/julio.laveriano" target="_blank">
+                        <a href="https://www.facebook.com/amazonrainforestproducts" target="_blank">
                           <em><span>Facebook</span></em>
                           <img src="<?php echo IMAGE_PATH; ?>/facebook.png" alt="Facebook">
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/mejorandola" target="_blank">
+                        <a href="https://twitter.com/AmazonianProd" target="_blank">
                           <em><span>Twitter</span></em>
                           <img src="<?php echo IMAGE_PATH; ?>/twitter.png" alt="Twitter">
                         </a>

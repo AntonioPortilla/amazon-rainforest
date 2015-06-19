@@ -134,13 +134,13 @@
     </div>
   </div>
   <div class="row productos">
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">    
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <ul class="nav nav-pills nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#unia" role="tab" data-toggle="tab">UÑA DE GATO</a></li>
+        <li role="presentation" class="active"><a href="#unia" role="tab" data-toggle="tab"><?php echo $lang['nomUnia']; ?></a></li>
         <li role="presentation"><a href="#chuchuhuasi" role="tab" data-toggle="tab">CHUCHUHUASI</a></li>
         <li role="presentation"><a href="#tahuari" role="tab" data-toggle="tab">TAHUARI</a></li>
         <li role="presentation"><a href="#graviola" role="tab" data-toggle="tab">GRAVIOLA</a></li>
-        <li role="presentation"><a href="#chancapiedra" role="tab" data-toggle="tab">CHANCA PIEDRA</a></li>
+        <li role="presentation"><a href="#chancapiedra" role="tab" data-toggle="tab">CHANCAPIEDRA</a></li>
         <li role="presentation"><a href="#clavo" role="tab" data-toggle="tab">CLAVO HUASCA</a></li>
         <li role="presentation"><a href="#jergon" role="tab" data-toggle="tab">JERGON SASHA</a></li>
         <li role="presentation"><a href="#ubos" role="tab" data-toggle="tab">ABUTA</a></li>
@@ -162,48 +162,48 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: Corteza trozada/ triturada / pulverizada.
                 <p>
-                  <strong>Nombre comercial:</strong> Uña de Gato
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> <?php echo $lang['nomUnia']; ?>
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> “Zavenna rossa“, “quitabultos“, uncucha, garabato, garabato colorado, garra gavilán, jipotatsa, kug kukjaqui, michomentis, paotati-mosha, samento, toron, tsachik, unganangi
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> “Zavenna rossa“, “quitabultos“, uncucha, garabato, garabato colorado, garra gavilán, jipotatsa, kug kukjaqui, michomentis, paotati-mosha, samento, toron, tsachik, unganangi
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Uncaria tomentosa (Willd) D.C.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Uncaria tomentosa (Willd) D.C.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Es una planta trepadora y espinosa de uso medicinal. Es originaria de la selva peruana. Su nombre se debe a la presencia en la planta de espinas curvas, con forma de gancho.
+                  <?php echo $lang['p_unia']; ?>.
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   La uña de gato fortalece el sistema inmunológico humano, previniendo enfermedades y el deterioro orgánico. Favorece la actividad antiinflamatoria en el organismo y puede prevenir el cáncer gracias a sus propiedades antioxidantes y antimutagénicas.
                 </p>
                 <p>
-                  <strong>Características Técnicas Uña de Gato:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['nomUnia']; ?>:</strong>
                 </p>
                 <p>
-                  <strong>PRINCIPIO ACTIVO:</strong>
+                  <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
                   Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ Ajmalicina - Oxindol A, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, Especiofilina/ Uncarina D. Acido Quinovico, Glicosidos, Flavonoides, Taninos, Vitaminas y Minerales (Calcio, fósforo, magnesio, potasio, sodio, manganeso).
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong>Características Físico / Químicas:</strong><br>
-                    Humedad            -- No más del 8 % <br>
-                    Preservativos       -- Ausente <br>
+                    <strong><?php echo $lang['carac']; ?> Físico / Químicas:</strong><br>
+                    Humedad               -- No más del 8 % <br>
+                    Preservativos         -- Ausente <br>
                     Pesticidas            -- Según Normas FDA <br>
-                    Antioxidantes      -- Ausente
+                    Antioxidantes         -- Ausente
                   </div>
                   <div class="col-lg-6">
-                    <strong>Metales pesados</strong><br>
+                    <strong><?php echo $lang['met_pesados']; ?></strong><br>
                     Plomo (Como Pb)    No más de 10 ppm. <br>
                     Arsénico (Como As)  No más de 3 ppm.
                   </div>
@@ -225,27 +225,27 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: Corteza trozada/ triturada/ pulverizada.
                 <p>
-                  <strong>Nombre comercial:</strong> Chuchuhuasi
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Chuchuhuasi
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Cuchuasi, chuchuasca (shipibo-conibo), chuchuhuasi, chuchuhuasha, chuchasha, 
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Cuchuasi, chuchuasca (shipibo-conibo), chuchuhuasi, chuchuhuasha, chuchasha, 
                   chucchuahuashu.
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Maytenus macrocarpa.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Maytenus macrocarpa.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Árbol grande de hasta 35m de altura, de tronco grueso, erecto, con ramas verticiladas, bastante ramificado; 
                   de follaje verde claro. Hojas persistentes, alternas, enteras, de 10-20cm de largo. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   La corteza se usa como anti disentérico, analgésico, como regulador menstrual y estomacal, antiinflamatorio, 
@@ -253,10 +253,10 @@
                   reumatoide, leishmaniosis y bronquitis.
                 </p>
                 <p>
-                  <strong>Características Técnicas Chuchuhuasi:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Chuchuhuasi:</strong>
                 </p>
                 <p>
-                  <strong>PRINCIPIO ACTIVO:</strong>
+                  <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
                   Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ Ajmalicina - Oxindol A, Mitrafilina, 
@@ -265,14 +265,14 @@
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong>CARACTERÍSTICAS TÉCNICAS:</strong><br>
+                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
                     Apariencia: Producto en polvo fino <br>
                     Color     : Característico (Marrón claro). <br>
                     Olor      : Característico. <br>
                     Sabor     : Característico (Amargo).
                   </div>
                   <div class="col-lg-6">
-                    <strong>METALES PESADOS</strong><br>
+                    <strong><?php echo $lang['met_pesados']; ?></strong><br>
                     Plomo (Como Pb)     : No más de 10 ppm <br>
                     Arsénico (Como As)  : No más de 3 ppm. <br>
                     Mercurio            : No más de 1 ppm. <br>
@@ -293,19 +293,19 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: Corteza trozada/ triturada/ pulverizada.
                 <p>
-                  <strong>Nombre comercial:</strong> Tahuari
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Tahuari
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Tahuari o Pau d' Arco
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Tahuari o Pau d' Arco
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Tabebuia Impetiginosa.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Tabebuia Impetiginosa.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Es un árbol de 8-10 m de altura. Las hojas de 10-15 cm de largo, compuestas y trifoliadas con foliolos 
@@ -313,13 +313,13 @@
                   tiene semillas aladas de color blanco. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Esta planta es usada para el fortalece el sistema inmunológico, antitumoral inmunológico, anti cancerígeno.
                 </p>
                 <p>
-                  <strong>Características Técnicas Tahuari:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Tahuari:</strong>
                 </p>
                 <p>
                   <strong>COMPOSICIÓN QUÍMICA:</strong>
@@ -354,19 +354,19 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: hojas/Atomizadas, pulverizadas.
                 <p>
-                  <strong>Nombre comercial:</strong> Graviola
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Graviola
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> guanábano, guanábana, corosol, corrosal, anón, cachimán, guanábana, masasamba.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> guanábano, guanábana, corosol, corrosal, anón, cachimán, guanábana, masasamba.
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Annona muricata L.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Annona muricata L.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Árbol pequeño de 4 a 9 m de altura. Hojas simples, alternas, dísticas, pinnatinervias, de 6 a 20 cm 
@@ -374,7 +374,7 @@
                   15 a 20 cm de largo x 10 a 15 cm de ancho, carnoso. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Las hojas de la Graviola por sus propiedades es usada como quimioterapia natural además de ser la mejor 
@@ -382,10 +382,10 @@
                   completamente el cuerpo y es hipotensiva.
                 </p>
                 <p>
-                  <strong>Características Técnicas Graviola:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Graviola:</strong>
                 </p>
                 <p>
-                  <strong>PRINCIPIO ACTIVO:</strong>
+                  <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
                   Alcaloides, ( Annonaceous Acetogenins ), Muricoreacin, Munhexocin C, Mono-tetrahydrofuran acetogenins, 
@@ -393,14 +393,14 @@
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong>CARACTERÍSTICAS TÉCNICAS:</strong><br>
+                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
                     Apariencia: Producto en polvo fino <br>
                     Color     : Característico. <br>
                     Olor      : Característico. <br>
                     Sabor     : Característico.
                   </div>
                   <div class="col-lg-6">
-                    <strong>METALES PESADOS</strong><br>
+                    <strong><?php echo $lang['met_pesados']; ?></strong><br>
                     Plomo (Como Pb)     : No más de 10 ppm <br>
                     Arsénico (Como As)  : No más de 3 ppm. <br>
                     Mercurio            : No más de 1 ppm. <br>
@@ -424,19 +424,19 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: atomizado/pulverizada.
                 <p>
-                  <strong>Nombre comercial:</strong> ChancaPiedra
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> ChancaPiedra
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Chanca piedra, chancapiedra blanca, niruri, piedra con piedra, sacha foster, rosillo.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Chanca piedra, chancapiedra blanca, niruri, piedra con piedra, sacha foster, rosillo.
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Phyllanthus niruri L.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Phyllanthus niruri L.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Planta herbácea, silvestre, anual, de unos 30 a 60 cm de altura, tallo erguido; hojas de 7-12cm de 
@@ -444,17 +444,17 @@
                   frutos de 2-3mm de diámetro. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Las hojas tienen propiedades Antiinflamatorias, cicatrizantes, diuréticos, digestivas, emenagogos, 
                   antihelmínticas, galactagogas en cálculos biliares.
                 </p>
                 <p>
-                  <strong>Características Técnicas Chancapiedra:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Chancapiedra:</strong>
                 </p>
                 <p>
-                  <strong>PRINCIPIO ACTIVO:</strong>
+                  <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
                   Alcaloides, Esteroides, Flavonoides, Triterpenos, Terpenos, Lignanos, Salicilato de metilo, 
@@ -463,14 +463,14 @@
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong>CARACTERÍSTICAS TÉCNICAS:</strong><br>
+                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
                     Apariencia: Producto en polvo fino <br>
                     Color     : Característico. <br>
                     Olor      : Característico. <br>
                     Sabor     : Característico.
                   </div>
                   <div class="col-lg-6">
-                    <strong>METALES PESADOS</strong><br>
+                    <strong><?php echo $lang['met_pesados']; ?></strong><br>
                     Plomo (Como Pb)     : No más de 10 ppm <br>
                     Arsénico (Como As)  : No más de 3 ppm. <br>
                     Mercurio            : No más de 1 ppm. <br>
@@ -494,19 +494,19 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: Corteza pulverizada.
                 <p>
-                  <strong>Nombre comercial:</strong> Clavo Huasca
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Clavo Huasca
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Canela, inejkeu, rabo nishi (shipibo-conibo).
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Canela, inejkeu, rabo nishi (shipibo-conibo).
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Tynnanthus panurensis.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Tynnanthus panurensis.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   La planta es un bejuco rastrero. Presenta lenticelas oscuras. Hojas con 2 a 3 foliolos y un zarcillo, 
@@ -514,7 +514,7 @@
                   Inflorescencias axilares en panículas, brácteas con tricomas diminutos y escamas. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Es usado como digestivo, para fiebres, para reumatismo y artritis y como tónico y calmante muscular 
@@ -522,7 +522,7 @@
                   sirve para elaborar los licores amazónicos.
                 </p>
                 <p>
-                  <strong>Características Técnicas Clavo Huasca:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Clavo Huasca:</strong>
                 </p>
                 <p>
                   <strong>COMPOSICIÓN:</strong>
@@ -546,20 +546,20 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Partes utilizadas: planta <br>
                   Insumo: pulverizado.
                 <p>
-                  <strong>Nombre comercial:</strong> Jergon Sacha
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Jergon Sacha
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Hierba de jergón; Sacha jergón; Hurignpe (amarakaeri), Mágoro (machiguenga).
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Hierba de jergón; Sacha jergón; Hurignpe (amarakaeri), Mágoro (machiguenga).
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Dracontium loretense Krause.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Dracontium loretense Krause.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Arbusto de 40 centímetros de largo que emergen de un tallo coloreado como el de los dibujos del 
@@ -567,14 +567,14 @@
                   Jergón unido a la palabra Sacha, significa en quechua “casi igual a una serpiente Jergón”. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Permite revertir las infecciones bacterianas asociadas al VIH, sirviendo como un gran estimulante 
                   inmunológico y antiviral. Constituye también un potente anticanceroso, antitumoral y antiinflamatorio.
                 </p>
                 <p>
-                  <strong>Características Técnicas Jergon Sacha:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Jergon Sacha:</strong>
                 </p>
                 <p>
                   <strong>Composición Química del Jergón Sacha</strong>
@@ -600,20 +600,20 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Parte utilizada: tallos,raiz,corteza. <br>
                   Insumo: trozado. Micro pulverizado
                 <p>
-                  <strong>Nombre comercial:</strong> Abuta
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Abuta
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Abuta, chancabexus, caimitillo, motelo sanango.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Abuta, chancabexus, caimitillo, motelo sanango.
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Abuta grandifolia (Mart.) Sandw.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Abuta grandifolia (Mart.) Sandw.
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   Liana alta, dioica, tiene un tallo más o menos aplastado, que crece en espiral. 
@@ -621,7 +621,7 @@
                   Las inflorescencias son en panículas de 2 a 8 cm de longitud. 
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   La raíz se indica como anti anémico, antihemorrágico menstrual y antirreumático, el 
@@ -629,7 +629,7 @@
                   la corteza se usa sobre todo como anti malario. Es reguladora del sistema digestivo.
                 </p>
                 <p>
-                  <strong>Características Técnicas Abuta:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Abuta:</strong>
                 </p>
                 <p>
                   <strong>Composición</strong>
@@ -664,26 +664,26 @@
             <div class="col-lg-12">
               <div class="prod_desc">
                 <p>
-                  <strong>INFORMACIÓN BÁSICA:</strong>
+                  <strong><?php echo $lang['info_basic']; ?>:</strong>
                   Insumo: madera trozada o cortada.
                 <p>
-                  <strong>Nombre comercial:</strong> Palo Santo
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Palo Santo
                 </p>
                 <p>
-                  <strong>Nombre común:</strong> Palo santo, madera sagrada, quebracho.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Palo santo, madera sagrada, quebracho.
                 </p>
                 <p>
-                  <strong>Nombre científico:</strong> Bursera graveolens
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Bursera graveolens
                 </p>
                 <p>
-                  <strong>DESCRIPCIÓN:</strong>
+                  <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
                   De unos 18 metros de altura, es un árbol mediano con 
                   copa de hojas pequeñas, gran cantidad de ramas y frutos en forma de capsula color verde oscuro.   
                 </p>
                 <p>
-                  <strong>PROPIEDADES Y USOS:</strong>
+                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
                   Al combustionar, desprende un humo que  tiene una serie de propiedades espirituales, 
@@ -693,7 +693,7 @@
                   habitaciones, oficina, etc.
                 </p>
                 <p>
-                  <strong>Características Técnicas Palo Santo:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> Palo Santo:</strong>
                 </p>
                 <p>
                   Acertadamente el árbol fue bautizado  como Bursera Graveloens, nombre científico que significa “bolsa llena de aceite’’.

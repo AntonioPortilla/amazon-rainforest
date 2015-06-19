@@ -27,6 +27,21 @@ $lang = array(
 		'siguenos' 			=> 'Follow Us',
 		'historia' 			=> 'Our History',
 		'hist' 				=> 'story',
+		'certificaciones'	=> 'Certifications',
+	    'procesos' 			=> 'Processes',
+	    'nomUnia' 			=> 'Cats Claw',
+	    'info_basic' 		=> 'BASIC INFORMATION',
+	    'nom_com' 			=> 'Name Commercial',
+	    'nom_comum' 		=> 'Common Name',
+	    'nom_cien' 			=> 'Scientific Name',
+	    'general_desc' 		=> 'GENERAL DESCRIPTION',
+	    'prop_usos' 		=> 'PROPERTIES AND USES',
+	    'car_tec' 			=> 'Technical Characteristics',
+	    'prin_act' 			=> 'PRINCIPLE ACTIVE',
+	    'met_pesados' 		=> 'HEAVY METALS',
+	    'carac' 			=> 'Features',
+	    'p_unia' 			=> 'It is a climber and prickly plant for medicinal use. It is native to the Peruvian jungle. 
+	    						Its name comes from the presence on the ground of curved spines, with a hook',
 		'historia_desc' 	=> 'Our company was born in 2013 thanks to the initiative of a group of professionals 
 								entrepreneurs who decided to travel to the Amazon Rainforest of Peru in search of products 
 								natural with healing and beneficial to humanity properties. <br>
