@@ -183,7 +183,7 @@
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  La uña de gato fortalece el sistema inmunológico humano, previniendo enfermedades y el deterioro orgánico. Favorece la actividad antiinflamatoria en el organismo y puede prevenir el cáncer gracias a sus propiedades antioxidantes y antimutagénicas.
+                  <?php echo $lang['p2_unia']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['nomUnia']; ?>:</strong>

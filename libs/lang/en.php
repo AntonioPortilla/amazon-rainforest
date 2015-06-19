@@ -40,6 +40,9 @@ $lang = array(
 	    'prin_act' 			=> 'PRINCIPLE ACTIVE',
 	    'met_pesados' 		=> 'HEAVY METALS',
 	    'carac' 			=> 'Features',
+	    'p2_unia' 			=> 'Cats claw strengthens the human immune system, preventing disease and organic decay. 
+	    						It promotes anti-inflammatory activity in the body and can prevent cancer through its 
+	    						antioxidant and anti-mutagenic',
 	    'p_unia' 			=> 'It is a climber and prickly plant for medicinal use. It is native to the Peruvian jungle. 
 	    						Its name comes from the presence on the ground of curved spines, with a hook',
 		'historia_desc' 	=> 'Our company was born in 2013 thanks to the initiative of a group of professionals 

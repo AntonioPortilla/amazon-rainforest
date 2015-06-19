@@ -40,6 +40,9 @@ $lang = array(
 	    'prin_act' 			=> 'PRINCIPIO ACTIVO',
 	    'met_pesados' 		=> 'METALES PESADOS',
 	    'carac' 			=> 'Características',
+	    'p2_unia' 			=> 'La uña de gato fortalece el sistema inmunológico humano, previniendo enfermedades y el 
+	    						deterioro orgánico. Favorece la actividad antiinflamatoria en el organismo y puede prevenir 
+	    						el cáncer gracias a sus propiedades antioxidantes y antimutagénicas',
 	    'p_unia' 			=> 'Es una planta trepadora y espinosa de uso medicinal. Es originaria de la selva peruana. 
 	    						Su nombre se debe a la presencia en la planta de espinas curvas, con forma de gancho',
 	    'historia_desc' 	=> 'Nuestra empresa nació en el  2013 gracias a la iniciativa de un grupo de profesionales
