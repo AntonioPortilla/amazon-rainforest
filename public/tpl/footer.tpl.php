@@ -8,7 +8,7 @@
               <p>
                 Amazon Rainforest Products <?php echo $lang['oficina']; ?>: <br>
                 <?php echo $lang['telf']; ?>: (511) 9939-10360 | Fax : (511) 658-6326 <br>
-                <?php echo $lang['correo']; ?>: sales@amazonrainforestproducts.com <br>
+                <?php echo $lang['correo']; ?>: sales@amazonianherbs.com <br>
                 Jr. Moore 151 dpto. 504 / Magdalena del Mar / <br>Lima 17 Perú
               </p>
               <span class="contact"><a href="<?php echo APP_DOMAIN; ?>/contacto/"><?php echo $lang['contactenos']; ?></a></span>
