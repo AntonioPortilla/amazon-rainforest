@@ -26,14 +26,17 @@
       </ul>
       <fieldset>
         <legend> <span><?php echo $lang['contacto']; ?></span> </legend>
-      </fieldset>      
+      </fieldset>
+      <p>
+        Solicita aquí información de nuestros productos o comunícate a través de : <span class="bg-info">ventas@amazonianherbs.com</span>.
+      </p>
     </div>
   </div>
   <div class="row contacto">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">            
       <form class="form-horizontal" id="formContact">
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> (*)</label>
+          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> <?php echo $lang['apellidos']; ?> (*)</label>
           <div class="col-sm-9">
             <input class="form-control" type="text" id="nombres" name="nombres" required>
           </div>
@@ -41,15 +44,9 @@
         <div class="form-group form-group-sm">
           <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?></label>
           <div class="col-sm-9">
-            <input class="form-control" type="text" id="empresa" name="empresa">
+            <input class="form-control" type="text" id="empresa" name="empresa" required>
           </div>
-        </div>
-        <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="cargo"><?php echo $lang['cargo']; ?></label>
-          <div class="col-sm-9">
-            <input class="form-control" type="text" id="cargo" name="cargo">
-          </div>
-        </div>
+        </div>      
         <div class="form-group form-group-sm">
           <label class="col-sm-3 control-label" for="correo"><?php echo $lang['correo']; ?> (*)</label>
           <div class="col-sm-9">
@@ -82,6 +79,9 @@
           </div>
         </div>
       </form>
+      <p>
+        Servicio Post venta: <span class="bg-success">cliente@amazonianherbs.com </span>
+      </p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 contact_b2">
       <img src="<?php echo IMAGE_PATH; ?>/contacto.png" alt="contacto">

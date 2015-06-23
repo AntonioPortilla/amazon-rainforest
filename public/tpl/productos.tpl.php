@@ -283,11 +283,14 @@
             </div>
           </div>          
         </div>
-        <div class="tab-pane" id="tahuari">
+        <div class="tab-pane" id="tahuari">          
           <div class="row row-1-unia">
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['tahuari_polvo'] ?>.jpg" alt="tahuari polvo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
               <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['tahuari'] ?>.jpg" alt="tahuari">
-            </div>            
+            </div>
           </div>
           <div class="row row-2-unia">
             <div class="col-lg-12">
@@ -657,7 +660,7 @@
               <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['palo'] ?>.jpg" alt="palo santo">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-              <img src="<?php echo IMAGE_PATH ?>/productos/<?php echo $lang['palo_polvo'] ?>.jpg" alt="palo santo">
+              <img src="<?php echo IMAGE_PATH ?>/productos/conos.jpg" alt="palo santo">
             </div>
           </div>
           <div class="row row-2-unia">
@@ -712,7 +715,8 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>       
+        <a href="<?php echo APP_DOMAIN; ?>/cotizacion/" class="btn btn-danger btn-cotizar">Cotizar Producto</a>
       </div>
     </div>
   </div>
