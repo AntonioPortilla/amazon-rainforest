@@ -2,6 +2,7 @@
 $lang = array(
 	    'inicio' 			=> 'Inicio',
 	    'productos' 		=> 'Productos',
+	    'pais' 				=> 'País',
 	    'unia' 				=> 'unia',
 		'unia_pulverizado' 	=> 'unia-pulverizado',
 		'chuchu' 			=> 'chuchuhuasi-trozado',

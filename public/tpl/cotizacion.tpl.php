@@ -173,6 +173,7 @@
           <div class="col-sm-3">
             <select class="form-control" name="pre_sasha">
               <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>              
               <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
@@ -191,6 +192,7 @@
           <div class="col-sm-3">
             <select class="form-control" name="pre_abuta">
               <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['triturado']; ?></option>
               <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
@@ -211,6 +213,7 @@
               <option value="<?php echo $lang['hojas']; ?>" selected><?php echo $lang['trozado']; ?></option>
               <option value="<?php echo $lang['triturado']; ?>"><?php echo $lang['viruta']; ?></option>
               <option value="<?php echo $lang['pulverizado']; ?>"><?php echo $lang['pulverizado']; ?></option>              
+              <option value="Conos">Conos</option>
               <option value="<?php echo $lang['otro']; ?>"><?php echo $lang['otro']; ?></option>
             </select>            
           </div>                    
@@ -219,7 +222,7 @@
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
         <h3><?php echo $lang['info_empresa']; ?></h3>
         <div class="form-group form-group-sm contactar">
-          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> (*)</label>
+          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> <?php echo $lang['apellidos']; ?>(*)</label>
           <div class="col-sm-9">
             <input class="form-control" type="text" id="nombres" name="nombres" required>
           </div>
@@ -227,13 +230,13 @@
         <div class="form-group form-group-sm">
           <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?></label>
           <div class="col-sm-9">
-            <input class="form-control" type="text" id="empresa" name="empresa">
+            <input class="form-control" type="text" id="empresa" name="empresa" required>
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="cargo"><?php echo $lang['cargo']; ?></label>
+          <label class="col-sm-3 control-label" for="cargo"><?php echo $lang['pais']; ?></label>
           <div class="col-sm-9">
-            <input class="form-control" type="text" id="cargo" name="cargo">
+            <input class="form-control" type="text" id="cargo" name="cargo" required>
           </div>
         </div>
         <div class="form-group form-group-sm">
@@ -250,7 +253,7 @@
           <div class="col-sm-9">
             <div class="input-group">
             <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>              
-              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7" maxlength="9">
+              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7" maxlength="9" required>
             </div>
           </div>
         </div>
