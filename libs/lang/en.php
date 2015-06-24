@@ -1,6 +1,12 @@
 <?php 
 $lang = array(
 		'inicio' 			=> 'Home',
+		'chancapiedra_1' 	=> 'chancapiedra-1-en',
+	    'chancapiedra_2' 	=> 'chancapiedra-2-en',
+	    'graviola_1' 		=> 'graviola-1-en',
+	    'graviola_2' 		=> 'graviola-2-en',
+	    'palo_1' 			=> 'palo-1-en',
+	    'palo_2' 			=> 'palo-2-en',
 		'productos' 		=> 'Products',
 		'pais' 				=> 'Country',
 		'unia' 				=> 'unia-en',
@@ -62,6 +68,9 @@ $lang = array(
 		'mision_desc'		=> 'Provide and promote quality natural products to the world market through a 
 								proper management and sustainability plan that will allow responsible extraction and 
 								generate employment for Native Communities of the Amazon Rainforest of Peru',
+		'vision'			=> 'Our View',
+	    'vision_desc'		=> 'Be the leading company in the production, processing and marketing of supplies and non 
+	    						timber Forest Products for the pharmaceutic, cosmetic and nutraceutical industry',
 		'plantas' 			=> 'Plants of the Peruvian Amazon',
 		'plantas_desc' 		=> 'We have a large and important variety of plants, herbs and bark; thanks its diversity 
 								of climate we can find our products in different areas country throughout the year',

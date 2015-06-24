@@ -80,8 +80,8 @@
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
         <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/chancapiedra-en.jpg" class="contenthover" alt="cat" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/chancapiedra.jpg" alt="chancapiedra" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['chancapiedra_2']; ?>.jpg" class="contenthover" alt="cat" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['chancapiedra_1']; ?>.jpg" alt="chancapiedra" width="95%" />
         </a>
       </div>
       <h2>Chancapiedra</h2>
@@ -89,8 +89,8 @@
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
         <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/graviola-en.jpg" class="contenthover" alt="graviola" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/graviola.jpg" alt="graviola" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['graviola_2']; ?>.jpg" class="contenthover" alt="graviola" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['graviola_1']; ?>.jpg" alt="graviola" width="95%" />
         </a>
       </div>
       <h2>Graviola</h2>
@@ -98,40 +98,11 @@
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
         <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/palo-en.jpg" class="contenthover" alt="palo santo" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/palo.jpg" alt="palo santo" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['palo_2']; ?>.jpg" class="contenthover" alt="palo santo" width="95%" />
+          <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['palo_1']; ?>.jpg" alt="palo santo" width="95%" />
         </a>
       </div>
       <h2>Palo Santo</h2>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-      <div class="elemento">
-        <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/chancapiedra-leaves-slider.jpg" class="contenthover" alt="chancapiedra" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/chancapiedra-slider.jpg" alt="chancapiedra" width="95%" />
-        </a>
-      </div>
-      <h2>Chancapiedra</h2>
-    </div>
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-      <div class="elemento">
-        <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/graviola-leaves-slider.jpg" class="contenthover" alt="graviola" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/graviola-slider.jpg" alt="graviola" width="95%" />
-        </a>
-      </div>
-      <h2>Graviola</h2>
-    </div>
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-      <div class="elemento">
-        <a href="#productos" class="prod">
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/palo-pulv-slider.jpg" class="contenthover" alt="palo santo" width="95%" />
-          <img src="<?php echo IMAGE_PATH; ?>/home-slider/palo-slider.jpg" alt="palo santo" width="95%" />
-        </a>
-      </div>
-      <h2>Palo Santo</h2>
-    </div>
-  </div>  
+  </div>    
 </div>

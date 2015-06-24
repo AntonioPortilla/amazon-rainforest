@@ -1,6 +1,12 @@
 <?php 
 $lang = array(
 	    'inicio' 			=> 'Inicio',
+	    'chancapiedra_1' 	=> 'chancapiedra-1',
+	    'chancapiedra_2' 	=> 'chancapiedra-2',
+	    'graviola_1' 		=> 'graviola-1',
+	    'graviola_2' 		=> 'graviola-2',
+	    'palo_1' 			=> 'palo-1',
+	    'palo_2' 			=> 'palo-2',
 	    'productos' 		=> 'Productos',
 	    'pais' 				=> 'País',
 	    'unia' 				=> 'unia',
@@ -62,6 +68,10 @@ $lang = array(
 	    'mision_desc' 		=> 'Brindar y promover productos naturales de calidad al mercado mundial, a través de un 
 		    					adecuado plan de manejo y sostenibilidad, que permitan la extracción responsable y 
 		    					generen empleo a las Comunidades Nativas de la Selva Amazónica del Perú',
+	    'vision'			=> 'Nuestra Visión',
+	    'vision_desc'		=> 'Ser la empresa líder en la producción, procesamiento y comercialización de insumos y 
+	    						productos forestales no maderables, para la industria farmacéutica, cosmética y nutraceutica 
+	    						del mercado mundial',
 	    'plantas' 			=> 'Plantas de la Amazonia Peruana',
 	    'plantas_desc' 		=> 'Disponemos de una amplia e importante variedad de plantas, hierbas y cortezas; gracias 
 		    					a su diversidad de climas podemos encontrar nuestros productos en diferentes zonas del 

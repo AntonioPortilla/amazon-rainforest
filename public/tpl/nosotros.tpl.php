@@ -40,7 +40,12 @@
 
       <p>  
         <?php echo $lang['mision_desc']; ?>.
-      </p>      
+      </p>
+      <h3><?php echo $lang['vision']; ?></h3>
+
+      <p>  
+        <?php echo $lang['vision_desc']; ?>.
+      </p> 
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
       <img src="<?php echo IMAGE_PATH; ?>/nosotros.jpg" alt="nosotros">

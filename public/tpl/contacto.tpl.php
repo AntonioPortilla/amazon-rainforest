@@ -42,7 +42,7 @@
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?></label>
+          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?> (*)</label>
           <div class="col-sm-9">
             <input class="form-control" type="text" id="empresa" name="empresa" required>
           </div>
