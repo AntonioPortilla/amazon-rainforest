@@ -1,6 +1,9 @@
 <?php 
 $lang = array(
 		'inicio' 			=> 'Home',
+		'solicita' 			=> 'Request information about our products  or contact us through the mail ',
+		'requerido' 		=> 'required fields are marked (*)',
+		'post_venta' 		=> 'After sales service',
 		'chancapiedra_1' 	=> 'chancapiedra-1-en',
 	    'chancapiedra_2' 	=> 'chancapiedra-2-en',
 	    'graviola_1' 		=> 'graviola-1-en',
@@ -53,38 +56,35 @@ $lang = array(
 	    						antioxidant and anti-mutagenic',
 	    'p_unia' 			=> 'It is a climber and prickly plant for medicinal use. It is native to the Peruvian jungle. 
 	    						Its name comes from the presence on the ground of curved spines, with a hook',
-		'historia_desc' 	=> 'Our company was born in 2013 thanks to the initiative of a group of professionals 
-								entrepreneurs who decided to travel to the Amazon Rainforest of Peru in search of products 
-								natural with healing and beneficial to humanity properties. <br>
-								Thus we come to the district of Masisea, in the department of Ucayali, 
-								a beautiful place made up of warm and friendly people, eager to collaborate 
-								and provide all the knowledge that they inherited their ancestors on their plants, 
-								healing herbs and bark. <br>
-								AMRAP born this way, a company formed by professionals and native of la Selva 
-								of Peru, working within a forest concession provided by the Peruvian State, 
-								offering natural products, whose beneficial properties are guaranteed and 
-								tested through scientific studies. <br>',
+		'historia_desc' 	=> 'Our company was created in 2013, thanks to the iniciative of a group of professional 
+								entrepreneurs who decided to travel to the amazonian jungle of Peru, in search of 
+								natural products with healing and beneficial properties for the humanity. <br>
+								Our trip took us to Masisea district in the department of Ucayali, a beutiful place 
+								with friendly people, eager to provide all their knowledge that they have obtained 
+								their ancestors on their plants, herbs and medicinal barks. <br>
+								AMRAP is a company formed by professionals and natives of the Peruvian jungle, 
+								working within a forest concession provided by the Peruvian state, offering natural 
+								products whose properties are guaranteed and proven through scientific studies. <br>',
 		'mision' 			=> 'Our Mission',
-		'mision_desc'		=> 'Provide and promote quality natural products to the world market through a 
-								proper management and sustainability plan that will allow responsible extraction and 
-								generate employment for Native Communities of the Amazon Rainforest of Peru',
-		'vision'			=> 'Our View',
-	    'vision_desc'		=> 'Be the leading company in the production, processing and marketing of supplies and non 
-	    						timber Forest Products for the pharmaceutic, cosmetic and nutraceutical industry',
+		'mision_desc'		=> 'Our mission is to promote and provide the best natural products to the world market 
+								using an appropriate forest management plan, this will allow responsible extraction 
+								and creates jobs to native communities of the amazon.',
+		'vision'			=> 'Our Vision',
+	    'vision_desc'		=> 'Our vision is  be the leading company in the production, process and sales of natural 
+	    						products and  inputs of the Amazon jungle, directed to the industry nutraceutical 
+	    						pharmaceutical and cosmetic',
 		'plantas' 			=> 'Plants of the Peruvian Amazon',
-		'plantas_desc' 		=> 'We have a large and important variety of plants, herbs and bark; thanks its diversity 
-								of climate we can find our products in different areas country throughout the year',
-		'comunidades' 		=> 'Native Communities',
-		'comunidades_desc' 	=> 'Peru has a large population of indigenous communities without with 
-								sufficient resources and technical assistance to develop, it has AMRAP 
-								as a compromise, mitigate these shortcomings by providing job opportunities 
-								and social assistance',
-		'empresa_p1' 		=> 'Amazon Rainforest Products has highly qualified professionals involved in the 
-								entire process of collection, selection, disinfection, processing and marketing 
-								of natural products it offers.',
-		'empresa_p2' 		=> 'The company has the support and advice of PromPeru, an institution of the Peruvian 
-								State, which is responsible for promoting and advising throughout the export route 
-								to the companies offering their products to the world market.',
+		'plantas_desc' 		=> 'We have a large and important variety of plants, herbs and barks; the diversity of 
+								climate we have, permit us to find this products in different places throughout the year.',
+		'comunidades' 		=> 'Indigenous Communities',
+		'comunidades_desc' 	=> 'Peru has a large population of indigenous communities without sufficient resources 
+								and technical assistance to develop. AMRAP has a compromise, mitigate these shortcomings, 
+								providing job opportunities and  social assistance.',
+		'empresa_p1' 		=> 'AMRAP has qualified professionals that are interfering in the entire process of harvest, 
+								selection, disinfection; processing and marketing  natural products and raw material that offers.',
+		'empresa_p2' 		=> 'The company has the support and advice of PromPeru, an institution of the Peruvian State, 
+								which is responsible for promoting and advising throughout the export route,  to the companies 
+								offering their products to the world market.',
 		'oficina' 			=> 'Head Office',
 		'telf' 				=> 'Phone Number',
 		'correo' 			=> 'E-Mail',
@@ -97,7 +97,7 @@ $lang = array(
 		'contact_p1' 		=> 'Our team will be pleased to assist and answer any queries at the time you make the request.',
 		'contact_p2' 		=> 'Thank you for choosing Amazon Rainforest Products',
 		'cotizacion' 		=> 'Quote',
-		'select_products' 	=> 'Select the products that you need to list',
+		'select_products' 	=> 'Request your Quote',
 		'productos' 		=> 'Products',
 	    'cantidad' 			=> 'Quantity',
 	    'presentacion' 		=> 'Presentation',
@@ -111,20 +111,15 @@ $lang = array(
 		'hojas' 			=> 'Dry leaves',
 		'trozado' 			=> 'Sticks',
 		'viruta' 			=> 'Chips',
-		'desc_pro'			=> '<p>The Amazon Rainforest has a wide variety of plants, herbs, bark and 
-								exotic fruits, these are used in the pharmaceutical, cosmetic, nutritional 
-								and Fitoterapeutic.</p><p>We extract these inputs through proper forest 
-								management plan, through responsible and sustainable harvesting, caring for 
-								the environment.</p><p>AMRAP involved in the process of growing, harvesting, 
-								processing and marketing of these natural ingredients extracted from our 
-								Peruvian Amazon.</p><p>The products offered as carefully selected natural 
-								ingredients and disinfected are:</p><p>Cats Claw (bark and leaves), 
-								Chuchuhuasi (bark), Graviola (soursop leaves), Tahuari- Arco Pau D` (bark), 
-								Breaker (ground), Jergon Sacha (root), Clavo Huasca (stem), Abuta ( stem), 
-								Mullein (root), Molle (ground), Palo Santo (stem).</p><p>Our non-timber 
-								forest inputs are supplied to the Pharmaceutical, Cosmetics and Nutrition 
-								industry; These are offered in primary processing.</p><p>We offer presentations 
-								of these inputs in the form Trozada, Crushed, Powdered micropulverized, 
-								atomized extract, dry raw material, other.</p>'
+		'desc_pro'			=> '<p>The Amazon Rainforest has a wide variety of herbs, plants and exotic fruits.</p>
+								<p>This raw material li is extracted under a suitable plan of forest managing, 
+								across a sustainable and responsible extraction.</p>
+								<p>AMRAP has been involved in the process of growing, harvesting, processing 
+								and marketing of these barks, herbs and exotic plants, which are rigorously 
+								selected.</p>
+								<p>Our products and raw material like barks, plants, parts of plants, they are 
+								offered to the pharmaceutical, cosmetic and nutraceutical industry. The raw material 
+								intervenes by the primary process of transformation, and this products are been offered 
+								in the following presentations:</p>'
 		);
 ?>

@@ -1,6 +1,10 @@
 <?php 
 $lang = array(
 	    'inicio' 			=> 'Inicio',
+	    'solicita' 			=> 'Solicita aquí información de nuestros productos o comunícate a través de',
+	    'requerido' 		=> 'Casillas requeridas estan marcadas (*)',
+	    'post_venta' 		=> 'Servicio Post venta',
+	    'requerido_quote'	=> '-------',
 	    'chancapiedra_1' 	=> 'chancapiedra-1',
 	    'chancapiedra_2' 	=> 'chancapiedra-2',
 	    'graviola_1' 		=> 'graviola-1',
@@ -81,12 +85,12 @@ $lang = array(
 		    					con suficientes recursos y ayuda técnica para poder desarrollarse, AMRAP tiene 
 		    					como compromiso, mitigar estas carencias brindándoles oportunidades laborales y 
 		    					ayuda social',
-	    'empresa_p1' 		=> 'Amazon Rainforest Products cuenta con profesionales altamente calificados, 
-	    						que intervienen en todo el proceso de recolección,  selección, desinfección, 
-	    						transformación y comercialización de los productos naturales que ofrece.',
-	    'empresa_p2' 		=> 'La empresa cuenta con el apoyo y asesoramiento de PromPeru, una institución 
-	    						del Estado Peruano, que se encarga de promover y asesorar durante toda la ruta 
-	    						exportadora a las empresas que ofrecen sus productos al mercado mundial.',
+	    'empresa_p1' 		=> 'Amazon Rainforest Products cuenta con profesionales calificados, que intervienen en todo 
+	    						el proceso de recolección, selección, desinfección, transformación y comercialización de 
+	    						los productos e insumos naturales que ofrece. ',
+	    'empresa_p2' 		=> 'La empresa cuenta con el respaldo y asesoramiento de PromPeru, una institución del Estado 
+	    						Peruano, que se encarga de promover y asesorar durante toda la ruta exportadora a las 
+	    						empresas que ofrecen sus productos al mercado mundial.',
 	    'oficina' 			=> 'oficina principal',
 	    'telf' 				=> 'Teléfono',
 	    'correo' 			=> 'Correo',
@@ -100,11 +104,11 @@ $lang = array(
 	    						consulta en el instante que usted realice la solicitud.',
 	    'contact_p2' 		=> 'Gracias por escoger Amazon Rainforest Products',
 	    'cotizacion' 		=> 'Cotización',
-	    'select_products' 	=> 'Seleccione los Productos que usted necesite cotizar',
+	    'select_products' 	=> 'Seleccione los productos que desea cotizar',
 	    'productos' 		=> 'Productos',
 	    'cantidad' 			=> 'Cantidad',
 	    'presentacion' 		=> 'Presentación',
-	    'info_empresa' 		=> 'Información de su empresa',
+	    'info_empresa' 		=> 'Información de la empresa',
 	    'derechos' 			=> 'Todos los derechos reservados',
 	    'trozado' 			=> 'Trozado',
 		'triturado' 		=> 'Triturado',
@@ -114,22 +118,23 @@ $lang = array(
 		'hojas' 			=> 'Hojas Secas',
 		'trozado' 			=> 'Trozado',
 		'viruta' 			=> 'Viruta',
-		'desc_pro'			=> '<p>La Selva Tropical Amazonica cuenta con una amplia variedad de plantas, 
-								hierbas, cortezas y frutos exóticos, estos son utilizados en la industria 
-								farmacéutica, cosmética, nutricional y  fitoterapeutica.</p>
-								<p>Extraemos estos insumos mediante un adecuado Plan de Manejo Forestal, 
-								a través de una extracción responsable y sostenible, cuidando el medio ambiente.</p>
-								<p>AMRAP interviene en el proceso de cultivo, recolección, transformación y 
-								comercialización de estos insumos naturales extraidos de nuestra Amazonia Peruana.</p>
-								<p>Los  productos ofrecidos como insumos naturales debidamente seleccionados y 
-								desinfectados son :</p><p>Uña de Gato (corteza y hojas), Chuchuhuasi 
-								(corteza), Graviola (Hojas de Guanabana), Tahuari- Pau D` Arco (corteza), 
-								hancaPiedra (planta), Jergon Sacha (raiz), Clavo Huasca (tallo) , Abuta 
-								(tallo), Barbasco (raíz), Molle(planta ) , Palo Santo (tallo).</p><p>Nuestros 
-								insumos forestales no maderables son ofrecidos a la industria Farmacéutica, 
-								Cosmética y Nutricional; estos son ofrecidos en procesos de transformación 
-								primaria.</p><p>Ofrecemos presentaciones de estos insumos en forma Trozada, 
-								Triturada, Pulverizada Micropulverizada, Extracto Atomizado, materia prima 
-								seca, otros.</p>'
+		'desc_pro'			=> '<p>La Selva Tropical Amazónica cuenta con una amplia variedad de plantas, hierbas, 
+								cortezas y frutos exóticos, utilizados en la industria farmacéutica, cosmética, 
+								nutraceutica y fitoterapeutica.</p>
+								<p>Extraemos una gran variedad insumos naturales  con principios activos, 
+								mediante un adecuado Plan de Manejo Forestal, a través de una extracción responsable 
+								y sostenible, cuidando el medio ambiente.</p>
+								<p>AMAZON RAINFOREST PRODUCTS-(AMRAP), interviene en el proceso de cultivo, recolección, 
+								transformación y comercialización de estos insumos naturales extraídos de nuestra Amazonia Peruana.</p>
+								<p>Los productos ofrecidos como insumos naturales en proceso primario son debidamente seleccionados 
+								y desinfectados para su adecuado uso industrial.</p>
+								<p>Entre ellos tenemos: la Uña de Gato (corteza y hojas), Chuchuhuasi (corteza), Graviola 
+								(Hojas de Guanábana), Tahuari- Pau D` Arco (corteza), ChancaPiedra (planta), Jergón Sacha (raíz), 
+								Clavo Huasca (tallo), Abuta (tallo, planta), Barbasco (raíz), Molle (planta, semillas), 
+								Palo Santo (árbol).</p>
+								<p>Nuestros Insumos Forestales no Maderables son destinados a la industria Farmacéutica, 
+								Cosmética y Nutraceutica; estos son ofrecidos en procesos de transformación primaria.</p>
+								<p>Las presentaciones de los insumos ofrecidos son: Trozado, Triturado, Pulverizado, Extracto 
+								Seco Atomizado, materia prima seca, entre otros.</p>'
     );
 ?>

@@ -25,10 +25,13 @@
         <li class="active"><?php echo $lang['contacto']; ?></li>
       </ul>
       <fieldset>
-        <legend> <span><?php echo $lang['contacto']; ?></span> </legend>
+        <legend> <span><?php echo $lang['contactenos']; ?></span> </legend>
       </fieldset>
       <p>
-        Solicita aquí información de nuestros productos o comunícate a través de : <span class="bg-info">ventas@amazonianherbs.com</span>.
+        <?php echo $lang['solicita']; ?> : <span class="bg-info">ventas@amazonianherbs.com </span>.
+      </p>
+      <p>
+        <span class="text-danger"> <?php echo $lang['requerido']; ?>  </span>
       </p>
     </div>
   </div>
@@ -80,7 +83,7 @@
         </div>
       </form>
       <p>
-        Servicio Post venta: <span class="bg-success">cliente@amazonianherbs.com </span>
+       <?php echo $lang['post_venta']; ?>: <span class="bg-success">cliente@amazonianherbs.com </span>
       </p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 contact_b2">

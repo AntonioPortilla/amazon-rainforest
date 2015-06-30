@@ -42,7 +42,7 @@
           <div class="col-sm-6">
             <div class="checkbox">
               <label>
-                <input type="checkbox"> Uña de Gato
+                <input type="checkbox"> <?php echo $lang['nomUnia']; ?>
               </label>
             </div>
           </div>
@@ -221,6 +221,9 @@
       </div>
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
         <h3><?php echo $lang['info_empresa']; ?></h3>
+        <p>
+        <span class="text-danger"> <?php echo $lang['requerido']; ?>  </span>
+      </p>
         <div class="form-group form-group-sm contactar">
           <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> <?php echo $lang['apellidos']; ?>(*)</label>
           <div class="col-sm-9">
