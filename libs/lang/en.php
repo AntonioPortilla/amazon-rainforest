@@ -4,6 +4,7 @@ $lang = array(
 		'solicita' 			=> 'Request information about our products  or contact us through the mail ',
 		'requerido' 		=> 'required fields are marked (*)',
 		'post_venta' 		=> 'After sales service',
+		'part_util'			=> 'Parts Used',
 		'chancapiedra_1' 	=> 'chancapiedra-1-en',
 	    'chancapiedra_2' 	=> 'chancapiedra-2-en',
 	    'graviola_1' 		=> 'graviola-1-en',
@@ -43,19 +44,110 @@ $lang = array(
 	    'nomUnia' 			=> 'Cats Claw',
 	    'info_basic' 		=> 'BASIC INFORMATION',
 	    'nom_com' 			=> 'Name Commercial',
-	    'nom_comum' 		=> 'Common Name',
+	    'nom_comum' 		=> 'Common names',
 	    'nom_cien' 			=> 'Scientific Name',
+	    'nom_cien_unia' 	=> 'Uncaria tomentosa (Willd) D.C.',
 	    'general_desc' 		=> 'GENERAL DESCRIPTION',
 	    'prop_usos' 		=> 'PROPERTIES AND USES',
 	    'car_tec' 			=> 'Technical Characteristics',
-	    'prin_act' 			=> 'PRINCIPLE ACTIVE',
+	    'prin_act' 			=> 'ACTIVE SUBSTANCE',
 	    'met_pesados' 		=> 'HEAVY METALS',
+	    'desc_met_chan' 	=> 'Lead (as Pb): Not more than 10 ppm<br>
+	    						Arsenic (as As): Not more than de 3 ppm.<br>
+	    						Mercury:  Not more than 1 ppm.<br>Cadmium: Not more than 1 ppm.',
+	    'desc_carac_chan' 	=> 'Physical and chemical characteristics <br>
+	    						Appearance: Product in thin powder<br>Color:  typical.<br>
+	    						Smell:  typical.<br>Flavor: typical',
+	    'prin_act_chan' 	=> 'The main plant chemicals in chanca piedra include alkaloids, astragalin, brevifolin, 
+	    						carboxylic acids, corilagin, cymene, ellagic acid, ellagitannins, gallocatechins, 
+	    						geraniin, hypophyllanthin, lignans, lintetralins, lupeols, methyl salicylate, 
+	    						niranthin, nirtetralin, niruretin, nirurin, nirurine, niruriside, norsecurinines, 
+	    						phyllanthin, phyllanthine, phyllanthenol, phyllochrysine, phyltetralin, 
+	    						repandusinic acids, quercetin, quercetol, quercitrin, rutin, saponins, 
+	    						triacontanal, and tricontanol',
+	    'p2_chan' 			=> 'It is little wonder that chanca piedra is used for so many purposes in herbal 
+	    						medicine systems: in clinical research over the years, the plant has 
+	    						demonstrated liver protective, antilithic (expels stones), pain-relieving, 
+	    						hypotensive, antispasmodic, antiviral, antibacterial, diuretic, antimutagenic, 
+	    						and hypoglycemic activities',
+	    'p_chan' 			=> 'Chanca piedra is a small, erect, annual herb that grows 30–40 cm in height. 
+	    						It is indigenous to the rainforests of the Amazon and other tropical areas 
+	    						throughout the world, including the Bahamas, southern India, and China. P. 
+	    						niruri is quite prevalent in the Amazon and other wet rainforests, growing 
+	    						and spreading freely (much like a weed)',
+	    'ncomun_chan' 		=> 'ChancaPiedra, Chancapiedra blanca, niruri, Chanca piedra, quebra pedra, 
+	    						stone-breaker, arranca-pedras, punarnava, amli, bhonya, bhoomi amalaki, 
+	    						bhui-amla, bhui amla, bhuianvalah, bhuimy-amali, bhuin-amla, bhumyamalaki, 
+	    						canerosillo.',
+	    'pre_chan' 			=> 'Dry plant, Crushed, Powder, Extract',
+	    'part_util_chanca' 	=> 'Entire plant',
+	    'desc_met_grav' 	=> 'Heavy metals<br>Lead (as Pb): Not more than 10 ppm<br>
+	    						Arsenic (as As): Not more than de 3 ppm.<br>
+	    						Mercury: Not more than 1 ppm.<br>Cadmium: Not more than 1 ppm.',
+	    'desc_carac_grav' 	=> 'Appearance: Product in thin powder<br>Color: typical.<br>
+	    						Smell: typical.<br>Flavor: typical',
+	    'prin_act_grav' 	=> 'Alkaloids, (Annonaceous Acetogenins), Muricoreacin, Munhexocin C, Mono - 
+	    						tetrahydrofuran acetogenins, Annomuricin E, Miricapentocin',
+	    'p2_grav' 			=> 'The leaves of the Graviola by his properties is used as natural chemotherapy 
+	    						beside being the best natural alternative to attack the cancer, is antibacterial, 
+	    						antiparasites, anti fungicidally, detoxifies completely the body and is hipotensiva',
+	    'p_grav' 			=> 'Small tree from 4 to 9 meters of height. Simple, alternate leaves, dísticas, pinnatinervias, 
+	    						from 6 to 20 cm of length for 2.5 to 6 cm of width. Flowers: solitary, yellow 
+	    						greenish. Fruit: ovoid - elipsoide, from 15 to 20 cm of length x 10 to 15 cm of 
+	    						width, beefy',
+	    'pre_grav' 			=> 'Dry leaves, Crushed, Powder, Extract',
+	    'part_util_grav' 	=> 'Guanábana leaves',
+	    'p_composicion' 	=> 'Its constituents are lapachol, a quinone and a recognized antitumor agent 
+	    						found in the wood and barely in the bark.  According to H. Wagner, head of 
+	    						the Institute of Pharmaceutical Biology at the University of Munich in 
+	    						Germany, much of the basis for pau d’arco’s reputation is its 
+	    						immune-stimulating properties.  Quinones  are present throughout nature. 
+	    						They are involved in the transference of hydrogen and electrons.',
+	    'p2_composicion' 	=> 'Lapachol, found in the inner bark, activates human immune cells (lymphocytes 
+	    						and granulocytes) in low concentrations.  Lymphocytes include cells that 
+								mediate immunological reactions, such as T-cells.  Granulocytes are white 
+								blood cells found in the blood that devour foreign cells and bacteria. 
+								Lapachol is barely soluble in water',
+	    'comp_quimica' 		=> 'Chemical Composition',
+	    'p2_tahuari' 		=> 'Pau d’arco is cooling, biter, alterative, antibiotic, antifungal, antitumor, 
+	    						antiviral, antineoplastic, digestive, diuretic, fungicidal, antidiabetic, 
+	    						anodyne, analgesic, astringent, parasiticide and hypotensive',
+	    'p_tahuari' 		=> 'It is a tree 8-10 m tall. Leaves 10-15 cm long, compound and trifoliate with 
+	    						elliptical leaflets. The flowers are large and yellow of 8 cm in diameter. 
+	    						The fruit that reaches 25 cm long is white winged seeds',
+	    'part_util_chuchu' 	=> 'Bark',
+	    'presentacion_chuchu'=> 'Billet Bark,, Crushed, Powder , Extract, other.',
+	    'desc_met_chuchu' 	=> 'Lead (as Pb): Not more than 10 ppm<br>Arsenic (as As): Not more than de 3 ppm.<br>
+	    						Mercury: Not more than 1 ppm.<br>Cadmium: Not more than 1 ppm.',
+	    'desc_carac_chuchu' => 'Appearance:  Product in thin powder <br>Color :   typical (Light brown).<br>
+	    						Smell :   typical.<br>Flavor : typical (bitter).',
+	    'prin_act_chuchu' 	=> 'Alkaloids, Isoteropodina/Uncarina And, Pteropodina/Uncarina C, Isomitrafilina/Ajmalicina - 
+	    						Oxindol To, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, 
+	    						Especiofilina/Uncarina D. Acid Quinovico, Glicosidos, Flavonoides, Tannins, 
+	    						Vitamins and Minerals (Calcium, phosphorus, magnesium, potassium, sodium, 
+	    						manganese).',
+	    'p_chuchu'			=> 'Big tree of up to 35m of height, of thick, erect trunk, with branches verticiladas, 
+	    						branched out enough; of light green foliage. Persistent, alternate, entire 
+	    						leaves, of 10-20cm of length',
+	    'p2_chuchu'			=> 'The bark is used like anti dysenteric, analgesic, as menstrual and stomach, 
+	    						antiinflammatory, antitumoral, antihemorrhoidal regulator, anti arrhythmic, 
+	    						aphrodisiac, antirheumatic, in the treatment of rheumatoid arthrites, 
+	    						leishmaniosis and bronchitis',
+	    'desc_met_pesados' 	=> 'Lead (Como Pb) : Not more than 10 ppm.<br>Arsénic (as As) :Not more than 3 ppm.',
+	    'carac_unia' 		=> 'Physical and chemical characteristics:',
+	    'desc_carac_unia' 	=> 'Dampness       – Not more than 8 % <br>Preservantes  -- Absent <br>
+								Pesticides     – According to procedure  FDA<br>Antioxidantes -- Absent',
+	    'prin_act_unia' 	=> 'Alkaloids, Isoteropodina/Uncarina And, Pteropodina/Uncarina C, Isomitrafilina/Ajmalicina - 
+	    						Oxindol To, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, Especiofilina/Uncarina 
+	    						D. Acid Quinovico, Glicosidos, Flavonoides, Tannins, Vitamins and Minerals (Calcium, phosphorus, 
+	    						magnesium, potassium, sodium, manganese).',
 	    'carac' 			=> 'Features',
-	    'p2_unia' 			=> 'Cats claw strengthens the human immune system, preventing disease and organic decay. 
-	    						It promotes anti-inflammatory activity in the body and can prevent cancer through its 
-	    						antioxidant and anti-mutagenic',
-	    'p_unia' 			=> 'It is a climber and prickly plant for medicinal use. It is native to the Peruvian jungle. 
-	    						Its name comes from the presence on the ground of curved spines, with a hook',
+	    'unia_insumos'		=> 'for the pulverized input',
+	    'p2_unia' 			=> 'This natural product strengthens the human immune system, prevents diseases and organic 
+	    						decay. It fortalece the activity anti-inflammatory in the body and can prevent 
+	    						cancer through the antioxidant and anti-mutagenic properties.',
+	    'p_unia' 			=> 'Climber and prickly plant for medicinal use, native of the Peruvian jungle. Its name 
+	    						comes from the presence of curved spines  on the plant with form of  hook.',
 		'historia_desc' 	=> 'Our company was created in 2013, thanks to the iniciative of a group of professional 
 								entrepreneurs who decided to travel to the amazonian jungle of Peru, in search of 
 								natural products with healing and beneficial properties for the humanity. <br>

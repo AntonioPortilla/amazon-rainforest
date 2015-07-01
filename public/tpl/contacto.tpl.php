@@ -39,15 +39,15 @@
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">            
       <form class="form-horizontal" id="formContact">
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> <?php echo $lang['apellidos']; ?> (*)</label>
+          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> (*)</label>
           <div class="col-sm-9">
             <input class="form-control" type="text" id="nombres" name="nombres" required>
           </div>
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?> (*)</label>
+          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?> </label>
           <div class="col-sm-9">
-            <input class="form-control" type="text" id="empresa" name="empresa" required>
+            <input class="form-control" type="text" id="empresa" name="empresa">
           </div>
         </div>      
         <div class="form-group form-group-sm">

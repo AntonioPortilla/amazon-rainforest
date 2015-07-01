@@ -139,7 +139,7 @@
       <ul class="nav nav-pills nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#unia" role="tab" data-toggle="tab"><?php echo $lang['nomUnia']; ?></a></li>
         <li role="presentation"><a href="#chuchuhuasi" role="tab" data-toggle="tab">CHUCHUHUASI</a></li>
-        <li role="presentation"><a href="#tahuari" role="tab" data-toggle="tab">TAHUARI</a></li>
+        <li role="presentation"><a href="#tahuari" role="tab" data-toggle="tab">PAU D’ ARCO – TAHUARI</a></li>
         <li role="presentation"><a href="#graviola" role="tab" data-toggle="tab">GRAVIOLA</a></li>
         <li role="presentation"><a href="#chancapiedra" role="tab" data-toggle="tab">CHANCAPIEDRA</a></li>
         <li role="presentation"><a href="#clavo" role="tab" data-toggle="tab">CLAVO HUASCA</a></li>
@@ -164,7 +164,13 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: Corteza trozada/ triturada / pulverizada.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> Corteza, hojas 
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> Trozado, Triturado, Pulverizado (harina), Extracto Seco atomizado. 
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> <?php echo $lang['nomUnia']; ?>
                 </p>
@@ -172,7 +178,7 @@
                   <strong><?php echo $lang['nom_comum']; ?>:</strong> “Zavenna rossa“, “quitabultos“, uncucha, garabato, garabato colorado, garra gavilán, jipotatsa, kug kukjaqui, michomentis, paotati-mosha, samento, toron, tsachik, unganangi
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Uncaria tomentosa (Willd) D.C.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong> <?php echo $lang['nom_cien_unia']; ?>
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
@@ -187,26 +193,26 @@
                   <?php echo $lang['p2_unia']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['nomUnia']; ?>:</strong>
+                  <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['unia_insumos']; ?>:</strong>
                 </p>
                 <p>
                   <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
-                  Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ Ajmalicina - Oxindol A, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, Especiofilina/ Uncarina D. Acido Quinovico, Glicosidos, Flavonoides, Taninos, Vitaminas y Minerales (Calcio, fósforo, magnesio, potasio, sodio, manganeso).
+                  <?php echo $lang['prin_act_unia']; ?>
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong><?php echo $lang['carac']; ?> Físico / Químicas:</strong><br>
-                    Humedad               -- No más del 8 % <br>
-                    Preservativos         -- Ausente <br>
-                    Pesticidas            -- Según Normas FDA <br>
-                    Antioxidantes         -- Ausente
+                    <strong><?php echo $lang['carac_unia']; ?></strong><br>
+                    <p>
+                      <?php echo $lang['desc_carac_unia']; ?>
+                    </p> 
                   </div>
                   <div class="col-lg-6">
                     <strong><?php echo $lang['met_pesados']; ?></strong><br>
-                    Plomo (Como Pb)    No más de 10 ppm. <br>
-                    Arsénico (Como As)  No más de 3 ppm.
+                    <p>
+                      <?php echo $lang['desc_met_pesados']; ?>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -227,57 +233,57 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: Corteza trozada/ triturada/ pulverizada.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_chuchu']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['presentacion_chuchu']; ?> 
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> Chuchuhuasi
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Cuchuasi, chuchuasca (shipibo-conibo), chuchuhuasi, chuchuhuasha, chuchasha, 
-                  chucchuahuashu.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> 
+                  Cuchuasi, chuchuasca (shipibo-conibo), chuchuhuasi, chuchuhuasha, chuchasha, chucchuahuashu. 
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Maytenus macrocarpa.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Maytenus Macrocarpa
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Árbol grande de hasta 35m de altura, de tronco grueso, erecto, con ramas verticiladas, bastante ramificado; 
-                  de follaje verde claro. Hojas persistentes, alternas, enteras, de 10-20cm de largo. 
+                  <?php echo $lang['p_chuchu']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  La corteza se usa como anti disentérico, analgésico, como regulador menstrual y estomacal, antiinflamatorio, 
-                  antitumoral, antihemorroidal, anti arrítmico, afrodisíaco, antirreumático, en el tratamiento de artritis 
-                  reumatoide, leishmaniosis y bronquitis.
+                  <?php echo $lang['p2_chuchu']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Chuchuhuasi:</strong>
+                  <strong><?php echo $lang['car_tec']; ?></strong>
                 </p>
                 <p>
                   <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
-                  Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ Ajmalicina - Oxindol A, Mitrafilina, 
-                  Isorinchofilina, Rinchofilina, Uncarina F, Especiofilina/ Uncarina D. Acido Quinovico, Glicosidos, Flavonoides, 
-                  Taninos, Vitaminas y Minerales (Calcio, fósforo, magnesio, potasio, sodio, manganeso). 
+                  <?php echo $lang['prin_act_chuchu']; ?>
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
-                    Apariencia: Producto en polvo fino <br>
-                    Color     : Característico (Marrón claro). <br>
-                    Olor      : Característico. <br>
-                    Sabor     : Característico (Amargo).
+                    <strong><?php echo $lang['carac_unia']; ?></strong><br>
+                    <p>
+                      <?php echo $lang['desc_carac_chuchu']; ?>
+                    </p> 
                   </div>
                   <div class="col-lg-6">
                     <strong><?php echo $lang['met_pesados']; ?></strong><br>
-                    Plomo (Como Pb)     : No más de 10 ppm <br>
-                    Arsénico (Como As)  : No más de 3 ppm. <br>
-                    Mercurio            : No más de 1 ppm. <br>
-                    Cadmio              : No más de 1 ppm.
+                    <p>
+                      <?php echo $lang['desc_met_chuchu']; ?>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -298,52 +304,51 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: Corteza trozada/ triturada/ pulverizada.
-                <p>
-                  <strong><?php echo $lang['nom_com']; ?>:</strong> Tahuari
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Tahuari o Pau d' Arco
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_chuchu']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Tabebuia Impetiginosa.
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['presentacion_chuchu']; ?> 
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Pau D’ Arco
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> 
+                  Tahuari o Pau D' Arco.
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Tabebuia Serratifolia, Tabebuia Impetiginosa.
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Es un árbol de 8-10 m de altura. Las hojas de 10-15 cm de largo, compuestas y trifoliadas con foliolos 
-                  elípticos. Las flores, grandes y amarillas de 8 cm de diámetro. El fruto que alcanza los 25 cm de largo 
-                  tiene semillas aladas de color blanco. 
+                  <?php echo $lang['p_tahuari']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  Esta planta es usada para el fortalece el sistema inmunológico, antitumoral inmunológico, anti cancerígeno.
+                  <?php echo $lang['p2_tahuari']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Tahuari:</strong>
+                  <strong><?php echo $lang['car_tec']; ?></strong>
                 </p>
                 <p>
-                  <strong>COMPOSICIÓN QUÍMICA:</strong>
+                  <strong><?php echo $lang['comp_quimica']; ?>:</strong>
                 </p>
                 <p>
-                  Además del   Lapachol que es  común   a varias especies del género, se han encontrado  Cycloolivil, 
-                  Lupenona, B-sitosterol, naphtaquinonas, antraquinonas y glucósidos iridoides entre otros un producto 
-                  elaborado a partir de la corteza de la planta, ha sido patentado por un prestigioso  Laboratorio. <br>
-                  Las investigaciones realizadas en la corteza de la planta, por eminentes profesionales investigadores; 
-                  llevaron al descubrimiento de un sustancia  conocida hoy como Lapachol ( naphtoquinona) que posee 
-                  excelentes propiedades farmacológicas y curativas entre las cuales está la capacidad de inhibir el 
-                  crecimientos de tumores malignos y al mismo tiempo los reduce .
+                  <?php echo $lang['p_composicion']; ?>.
                 </p>
                 <p>
-                  Otras especies medicinales: Tabebuia. Serratifolia   vahl (Tahuarí) y Tabebuia chrysantha (tahuarí negro). 
-                  Ambas son también utilizadas por sus propiedades medicinales.
-                </p>               
+                  <?php echo $lang['p2_composicion']; ?>.
+                </p>
               </div>
             </div>
-          </div>          
+          </div>
         </div>
         <div class="tab-pane" id="graviola">
           <div class="row row-1-unia">
@@ -359,56 +364,60 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: hojas/Atomizadas, pulverizadas.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_grav']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_grav']; ?>.
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> Graviola
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> guanábano, guanábana, corosol, corrosal, anón, cachimán, guanábana, masasamba.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong> 
+                  Guanábano, guanábana, corosol, corrosal, anón, cachimán, guanábana, masasamba. 
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Annona muricata L.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Annona Muricata L
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Árbol pequeño de 4 a 9 m de altura. Hojas simples, alternas, dísticas, pinnatinervias, de 6 a 20 cm 
-                  de largo por 2.5 a 6 cm de ancho. Flores: solitarias, amarillo verdosas. Fruto: ovoide-elipsoide, de 
-                  15 a 20 cm de largo x 10 a 15 cm de ancho, carnoso. 
+                  <?php echo $lang['p_grav']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  Las hojas de la Graviola por sus propiedades es usada como quimioterapia natural además de ser la mejor 
-                  alternativa natural para combatir el cáncer, es antibacterial, antiparásitos, anti fungicida, desintoxica 
-                  completamente el cuerpo y es hipotensiva.
+                  <?php echo $lang['p2_grav']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Graviola:</strong>
+                  <strong><?php echo $lang['car_tec']; ?></strong>
                 </p>
                 <p>
                   <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
-                  Alcaloides, ( Annonaceous Acetogenins ), Muricoreacin, Munhexocin C, Mono-tetrahydrofuran acetogenins, 
-                  Annomuricin E, Miricapentocin. 
+                  <?php echo $lang['prin_act_grav']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['unia_insumos']; ?></strong>
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
-                    Apariencia: Producto en polvo fino <br>
-                    Color     : Característico. <br>
-                    Olor      : Característico. <br>
-                    Sabor     : Característico.
+                    <strong><?php echo $lang['carac_unia']; ?></strong><br>
+                    <p>
+                      <?php echo $lang['desc_carac_grav']; ?>
+                    </p> 
                   </div>
                   <div class="col-lg-6">
                     <strong><?php echo $lang['met_pesados']; ?></strong><br>
-                    Plomo (Como Pb)     : No más de 10 ppm <br>
-                    Arsénico (Como As)  : No más de 3 ppm. <br>
-                    Mercurio            : No más de 1 ppm. <br>
-                    Cadmio              : No más de 1 ppm.
+                    <p>
+                      <?php echo $lang['desc_met_grav']; ?>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -429,56 +438,60 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: atomizado/pulverizada.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_chanca']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_chan']; ?>.
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> ChancaPiedra
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Chanca piedra, chancapiedra blanca, niruri, piedra con piedra, sacha foster, rosillo.
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong>
+                  <?php echo $lang['ncomun_chan']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Phyllanthus niruri L.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Phyllanthus niruri L.
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Planta herbácea, silvestre, anual, de unos 30 a 60 cm de altura, tallo erguido; hojas de 7-12cm de 
-                  largo, alternas, sésiles oblongas; flores pequeñas de color blanquecino-verdoso, apétalas monóicas; 
-                  frutos de 2-3mm de diámetro. 
+                  <?php echo $lang['p_chan']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  Las hojas tienen propiedades Antiinflamatorias, cicatrizantes, diuréticos, digestivas, emenagogos, 
-                  antihelmínticas, galactagogas en cálculos biliares.
+                  <?php echo $lang['p2_chan']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Chancapiedra:</strong>
+                  <strong><?php echo $lang['car_tec']; ?></strong>
                 </p>
                 <p>
                   <strong><?php echo $lang['prin_act']; ?>:</strong>
                 </p>
                 <p>
-                  Alcaloides, Esteroides, Flavonoides, Triterpenos, Terpenos, Lignanos, Salicilato de metilo, 
-                  Taninos, Vitamina C, Lípidos ( Acido linoleico, ácido linolenico, etc. ), Acido carboxilico, 
-                  Astralgina, Nirantina, Nirurina, etc. 
+                  <?php echo $lang['prin_act_chan']; ?>.
+                </p>
+                <p>
+                  <strong><?php echo $lang['car_tec']; ?> <?php echo $lang['unia_insumos']; ?></strong>
                 </p>
                 <div class="row">
                   <div class="col-lg-6">
-                    <strong><?php echo $lang['car_tec']; ?>:</strong><br>
-                    Apariencia: Producto en polvo fino <br>
-                    Color     : Característico. <br>
-                    Olor      : Característico. <br>
-                    Sabor     : Característico.
+                    <strong><?php echo $lang['carac_unia']; ?></strong><br>
+                    <p>
+                      <?php echo $lang['desc_carac_chan']; ?>
+                    </p> 
                   </div>
                   <div class="col-lg-6">
                     <strong><?php echo $lang['met_pesados']; ?></strong><br>
-                    Plomo (Como Pb)     : No más de 10 ppm <br>
-                    Arsénico (Como As)  : No más de 3 ppm. <br>
-                    Mercurio            : No más de 1 ppm. <br>
-                    Cadmio              : No más de 1 ppm.
+                    <p>
+                      <?php echo $lang['desc_met_chan']; ?>
+                    </p>
                   </div>
                 </div>
               </div>

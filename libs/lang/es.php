@@ -4,7 +4,7 @@ $lang = array(
 	    'solicita' 			=> 'Solicita aquí información de nuestros productos o comunícate a través de',
 	    'requerido' 		=> 'Casillas requeridas estan marcadas (*)',
 	    'post_venta' 		=> 'Servicio Post venta',
-	    'requerido_quote'	=> '-------',
+	    'part_util'			=> 'Parte Utilizada',
 	    'chancapiedra_1' 	=> 'chancapiedra-1',
 	    'chancapiedra_2' 	=> 'chancapiedra-2',
 	    'graviola_1' 		=> 'graviola-1',
@@ -44,14 +44,93 @@ $lang = array(
 	    'nomUnia' 			=> 'Uña de Gato',
 	    'info_basic' 		=> 'INFORMACIÓN BÁSICA',
 	    'nom_com' 			=> 'Nombre Comercial',
-	    'nom_comum' 		=> 'Nombre Común',
+	    'nom_comum' 		=> 'Nombres Comúnes',
 	    'nom_cien' 			=> 'Nombre Científico',
+	    'nom_cien_unia' 	=> 'Uncaria tomentosa.',
 	    'general_desc' 		=> 'DESCRIPCIÓN GENERAL',
 	    'prop_usos' 		=> 'PROPIEDADES Y USOS',
 	    'car_tec' 			=> 'Características Técnicas',
 	    'prin_act' 			=> 'PRINCIPIO ACTIVO',
 	    'met_pesados' 		=> 'METALES PESADOS',
+	    'desc_met_chan' 	=> 'Plomo (Como Pb): No más de 10 ppm<br>Arsénico (Como As) : No más de 3 ppm.<br>
+	    						Mercurio: No más de 1 ppm.<br>Cadmio: No más de 1 ppm.',
+	    'desc_carac_chan' 	=> 'Apariencia: Producto en polvo fino<br>Color: Característico.<br>
+	    						Olor: Característico.<br>Sabor: Característico.',
+	    'prin_act_chan' 	=> 'Alcaloides, Esteroides, Flavonoides, Triterpenos, Terpenos, Lignanos, 
+	    						Salicilato de metilo, Taninos, Vitamina C, Lípidos ( Acido linoleico, 
+	    						ácido linolenico, etc. ), Acido carboxilico, Astralgina, Nirantina, 
+								Nirurina, etc',
+	    'p2_chan' 			=> 'Las hojas tienen propiedades Antiinflamatorias, cicatrizantes, diuréticos, digestivas, 
+	    						menagogos, antihelmínticas, galactagogas en cálculos biliares',
+	    'p_chan' 			=> 'Planta herbácea, silvestre, anual, de unos 30 a 60 cm de altura, tallo erguido; 
+	    						hojas de 7-12cm de largo, alternas, sésiles oblongas; flores pequeñas de color 
+	    						blanquecino-verdoso, apétalas monóicas; frutos de 2-3mm de diámetro',
+	    'ncomun_chan' 		=> 'ChancaPiedra, Chancapiedra blanca, niruri, piedra con piedra, sacha foster, rosillo',
+	    'pre_chan' 			=> 'Planta Seca, Triturado, Pulverizado, Extracto',
+	    'part_util_chanca' 	=> 'planta',
+	    'desc_met_grav' 	=> 'Plomo (Como Pb) : No más de 10 ppm<br>Arsénico (Como As) : No más de 3 ppm.<br>
+	    						Mercurio : No más de 1 ppm.<br>Cadmio: No más de 1 ppm.',
+	    'desc_carac_grav' 	=> 'Apariencia: Producto en polvo fino<br>Color :  Característico.<br>
+	    						Olor : Característico.<br>Sabor : Característico.',
+	    'prin_act_grav' 	=> 'Alcaloides, (Annonaceous Acetogenins), Muricoreacin, Munhexocin C, 
+	    						Mono-tetrahydrofuran acetogenins, Annomuricin E, Miricapentocin',
+	    'p2_grav' 			=> 'Las hojas de la Graviola por sus propiedades es usada como quimioterapia 
+	    						natural además de ser la mejor alternativa natural para combatir el cáncer, 
+	    						es antibacterial, antiparásitos, anti fungicida, desintoxica completamente 
+	    						el cuerpo y es hipotensiva',
+	    'p_grav' 			=> 'MEÁrbol pequeño de 4 a 9 m de altura. Hojas simples, alternas, dísticas, 
+	    						pinnatinervias, de 6 a 20 cm de largo por 2.5 a 6 cm de ancho. Flores: 
+	    						solitarias, amarillo verdosas. Fruto: ovoide-elipsoide, de 15 a 20 cm de 
+	    						largo x 10 a 15 cm de ancho, carnoso',
+	    'pre_grav' 			=> 'Hojas Secas, Triturado, Pulverizado, Extracto',
+	    'part_util_grav' 	=> 'Hojas de Guanábana',
+	    'p_composicion' 	=> 'Además del Lapachol que es común a varias especies del género, 
+	    						se han encontrado Cycloolivil, Lupenona, B-sitosterol, naphtaquinonas, 
+	    						antraquinonas y glucósidos iridoides entre otros un producto elaborado 
+	    						a partir de la corteza de la planta, ha sido patentado por un prestigioso 
+	    						Laboratorio.<br>Las investigaciones realizadas en la corteza de la planta, 
+	    						por eminentes profesionales investigadores; llevaron al descubrimiento 
+	    						de un sustancia conocida hoy como Lapachol (naphtoquinona) que posee 
+	    						excelentes propiedades farmacológicas y curativas entre las cuales 
+	    						está la capacidad de inhibir el crecimientos de tumores malignos y 
+	    						al mismo tiempo los reduce',
+	    'p2_composicion' 	=> 'Otras especies medicinales: Tabebuia. Serratifolia Vahl (Tahuarí) y 
+	    						Tabebuia Chrysantha (Tahuarí Negro). Ambas son también utilizadas por 
+	    						sus propiedades medicinales',
+	    'comp_quimica' 		=> 'COMPOSICIÓN QUÍMICA',
+	    'p2_tahuari' 		=> 'METEsta planta es usada para el fortalece el sistema inmunológico, 
+	    						antitumoral inmunológico, anti cancerígeno',
+	    'p_tahuari' 		=> 'Es un árbol de 8-10 m de altura. Las hojas de 10-15 cm de largo, compuestas y 
+	    						trifoliadas con foliolos elípticos. Las flores, grandes y amarillas de 8 cm 
+	    						de diámetro. El fruto que alcanza los 25 cm de largo tiene semillas aladas de 
+	    						color blanco',
+	    'part_util_chuchu' 	=> 'Corteza',
+	    'presentacion_chuchu'=> 'Trozado, Triturado, Pulverizado (harina), Extracto',
+	    'desc_met_chuchu' 	=> 'Plomo (Como Pb) : No más de 10 ppm<br>Arsénico (Como As): No más de 3 ppm.<br>
+	    						Mercurio: No más de 1 ppm.<br>Cadmio: No más de 1 ppm.',
+	    'desc_carac_chuchu' => 'Apariencia: Producto en polvo fino<br>Color : Característico (Marrón claro).<br>
+	    						Olor :     Característico.<br>Sabor :  Característico (Amargo).',
+	    'prin_act_chuchu' 	=> 'Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ 
+	    						Ajmalicina - Oxindol A, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, 
+	    						Especiofilina/ Uncarina D. Acido Quinovico, Glicosidos, Flavonoides, Taninos, 
+	    						Vitaminas y Minerales (Calcio, fósforo, magnesio, potasio, sodio, manganeso).',
+	    'p_chuchu' 			=> 'Árbol grande de hasta 35m de altura, de tronco grueso, erecto, con ramas 
+	    						verticiladas, bastante ramificado; de follaje verde claro. Hojas persistentes, 
+	    						alternas, enteras, de 10-20cm de largo',
+	    'p2_chuchu'			=> 'La corteza se usa como anti disentérico, analgésico, como regulador menstrual y 
+	    						estomacal, antiinflamatorio, antitumoral, antihemorroidal, anti arrítmico, 
+	    						afrodisíaco, antirreumático, en el tratamiento de artritis reumatoide, 
+	    						leishmaniosis y bronquitis',
+	    'desc_met_pesados' 	=> 'Plomo (Como Pb) :  No más de 10 ppm.<br>Arsénico (Como As): No más de 3 ppm.',
+	    'carac_unia' 		=> 'Características Físico / Químicas:',
+	    'desc_carac_unia' 	=> 'Humedad         --  No más del 8 % <br>Preservativos --  Ausente <br>
+								Pesticidas        --  Según Normas FDA <br>Antioxidantes --  Ausente',
+	    'prin_act_unia' 	=> 'Alcaloides, Isoteropodina/ Uncarina E, Pteropodina/ Uncarina C, Isomitrafilina/ 
+	    						Ajmalicina - Oxindol A, Mitrafilina, Isorinchofilina, Rinchofilina, Uncarina F, 
+	    						Especiofilina/ Uncarina D. Acido Quinovico, Glicosidos, Flavonoides, Taninos, 
+	    						Vitaminas y Minerales (Calcio, fósforo, magnesio, potasio, sodio, manganeso).',
 	    'carac' 			=> 'Características',
+	    'unia_insumos'		=> 'para insumo pulverizado',
 	    'p2_unia' 			=> 'La uña de gato fortalece el sistema inmunológico humano, previniendo enfermedades y el 
 	    						deterioro orgánico. Favorece la actividad antiinflamatoria en el organismo y puede prevenir 
 	    						el cáncer gracias a sus propiedades antioxidantes y antimutagénicas',
