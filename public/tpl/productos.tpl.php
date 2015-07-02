@@ -512,43 +512,51 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: Corteza pulverizada.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_clavo']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_clavo']; ?>.
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> Clavo Huasca
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Canela, inejkeu, rabo nishi (shipibo-conibo).
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong>
+                  <?php echo $lang['ncomun_clavo']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Tynnanthus panurensis.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Tynnanthus Panurensis
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  La planta es un bejuco rastrero. Presenta lenticelas oscuras. Hojas con 2 a 3 foliolos y un zarcillo, 
-                  de forma elíptica u oblongo elíptica, de ápice acuminado o agudo y base redondeada truncada. 
-                  Inflorescencias axilares en panículas, brácteas con tricomas diminutos y escamas. 
+                  <?php echo $lang['p_clavo']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  Es usado como digestivo, para fiebres, para reumatismo y artritis y como tónico y calmante muscular 
-                  (tonifica, equilibra y fortalece las funciones corporales en general). Junto con otras cortezas, 
-                  sirve para elaborar los licores amazónicos.
+                  <?php echo $lang['p2_clavo']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Clavo Huasca:</strong>
+                  <strong><?php echo $lang['car_tec']; ?></strong>
                 </p>
                 <p>
-                  <strong>COMPOSICIÓN:</strong>
+                  <strong><?php echo $lang['composicion']; ?>:</strong>
                 </p>
                 <p>
-                  Ácidos fijos fuertes, auronas, bases cuaternarias, chalconas, esteroides, fenoles simples, 
-                  flavanonas, heterópsidos cianogénicos, leucoantocianidinas, taninos pirogálicos, eugenol y 
-                  resinas. 
-                </p>                
+                  <?php echo $lang['desc_composicion']; ?>.
+                </p>
+                <p>
+                  <strong><?php echo $lang['current_cla']; ?></strong>
+                </p>
+                <p>
+                  <?php echo $lang['desc_current_cla']; ?>
+                </p>
               </div>
             </div>
           </div>
@@ -564,45 +572,42 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Partes utilizadas: planta <br>
-                  Insumo: pulverizado.
+                </p>
+                <p>
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_jergon']; ?>
+                </p>
+                <p>
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_jergon']; ?>.
+                </p>
                 <p>
                   <strong><?php echo $lang['nom_com']; ?>:</strong> Jergon Sacha
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Hierba de jergón; Sacha jergón; Hurignpe (amarakaeri), Mágoro (machiguenga).
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong>
+                  <?php echo $lang['ncomun_jergon']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Dracontium loretense Krause.
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Dracontium loretense Krause.
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Arbusto de 40 centímetros de largo que emergen de un tallo coloreado como el de los dibujos del 
-                  cuerpo de la serpiente Jergón, le debe la mitad de su nombre a este ofidio. Ya que el vocablo 
-                  Jergón unido a la palabra Sacha, significa en quechua “casi igual a una serpiente Jergón”. 
+                  <?php echo $lang['p_jergon']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['prop_usos']; ?>:</strong>
+                  <strong><?php echo $lang['prop_usos_jergon']; ?>:</strong>
                 </p>
                 <p>
-                  Permite revertir las infecciones bacterianas asociadas al VIH, sirviendo como un gran estimulante 
-                  inmunológico y antiviral. Constituye también un potente anticanceroso, antitumoral y antiinflamatorio.
+                  <?php echo $lang['p2_jergon']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Jergon Sacha:</strong>
+                  <strong><?php echo $lang['composicion']; ?>:</strong>
                 </p>
                 <p>
-                  <strong>Composición Química del Jergón Sacha</strong>
+                  <?php echo $lang['desc_com_jergon']; ?>.
                 </p>
-                <p>
-                  Dentro de los compuestos químicos del cormo desecado destacan los alcaloides, saponinas, 
-                  cumarinas,  azúcares reductores, saponinas, mucílagos, flavonoides y glucósidos, asimismo, 
-                  en el extracto liofilizado se han encontrado: alcaloides, azúcares reductores, saponinas, 
-                  flavonoides y glucósidos.
-                </p>
-               
               </div>
             </div>
           </div>
@@ -615,55 +620,45 @@
           </div>
           <div class="row row-2-unia">
             <div class="col-lg-12">
-              <div class="prod_desc">
+             <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Parte utilizada: tallos,raiz,corteza. <br>
-                  Insumo: trozado. Micro pulverizado
-                <p>
-                  <strong><?php echo $lang['nom_com']; ?>:</strong> Abuta
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Abuta, chancabexus, caimitillo, motelo sanango.
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_abuta']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Abuta grandifolia (Mart.) Sandw.
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_abuta']; ?>.
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Abuta 
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong>
+                  Abuta, chancabexus, caimitillo, motelo sanango
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Abuta grandifolia (Mart.) Sandw.
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  Liana alta, dioica, tiene un tallo más o menos aplastado, que crece en espiral. 
-                  Sus hojas son simples, alternas, de un verde pálido. Las nervaduras son palmadas. 
-                  Las inflorescencias son en panículas de 2 a 8 cm de longitud. 
+                  <?php echo $lang['p_abuta']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
                 <p>
-                  La raíz se indica como anti anémico, antihemorrágico menstrual y antirreumático, el 
-                  tallo para cólicos menstruales y como hipocolesterolémiante, antiinflamatorio y afrodisíaco, 
-                  la corteza se usa sobre todo como anti malario. Es reguladora del sistema digestivo.
+                  <?php echo $lang['p2_abuta']; ?>.
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Abuta:</strong>
+                  <strong><?php echo $lang['composicion']; ?>:</strong>
                 </p>
                 <p>
-                  <strong>Composición</strong>
+                  <?php echo $lang['desc_com_abuta']; ?>.
                 </p>
-                <p>
-                  Alcaloides bencil isoquinolínicos, palmitina2 y otros derivados como gradirubrine, 
-                  imerubrine e isomerubrine) (Torres y Rico, 1994).
-                </p>
-                <p>
-                  Alcaloides bisbenzylisoquinolina: Krukovine, limacine 22 <br>
-                  Flavonoides: Flavonas, 4,7-dihidroxiflavanonanol13. <br>
-                  Saponinas. <br>
-                  Terpenos. <br>
-                  Taninos.
-
-                </p>
-               
               </div>
             </div>
           </div>
@@ -682,50 +677,40 @@
               <div class="prod_desc">
                 <p>
                   <strong><?php echo $lang['info_basic']; ?>:</strong>
-                  Insumo: madera trozada o cortada.
-                <p>
-                  <strong><?php echo $lang['nom_com']; ?>:</strong> Palo Santo
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_comum']; ?>:</strong> Palo santo, madera sagrada, quebracho.
+                  <strong><?php echo $lang['part_util']; ?>:</strong> <?php echo $lang['part_util_palo']; ?>
                 </p>
                 <p>
-                  <strong><?php echo $lang['nom_cien']; ?>:</strong> Bursera graveolens
+                  <strong><?php echo $lang['presentacion']; ?>:</strong> <?php echo $lang['pre_palo']; ?>.
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_com']; ?>:</strong> Palo Santo 
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_comum']; ?>:</strong>
+                  Palo santo, madera sagrada, quebracho
+                </p>
+                <p>
+                  <strong><?php echo $lang['nom_cien']; ?>:</strong>
+                  Bursera Graveolens.
                 </p>
                 <p>
                   <strong><?php echo $lang['general_desc']; ?>:</strong>
                 </p>
                 <p>
-                  De unos 18 metros de altura, es un árbol mediano con 
-                  copa de hojas pequeñas, gran cantidad de ramas y frutos en forma de capsula color verde oscuro.   
+                  <?php echo $lang['p_palo']; ?>.
                 </p>
                 <p>
                   <strong><?php echo $lang['prop_usos']; ?>:</strong>
                 </p>
+                <?php echo $lang['p2_palo']; ?>
                 <p>
-                  Al combustionar, desprende un humo que  tiene una serie de propiedades espirituales, 
-                  que lo hacen ideal para la meditación, relajación, armonía en los encuentros íntimos 
-                  de pareja, relajar situaciones de tensión dentro de una familia, etc. También su humo 
-                  mágico se puede utilizar para limpiar de energías negativas de nuestra vivienda, 
-                  habitaciones, oficina, etc.
+                  <strong><?php echo $lang['car_tec']; ?>:</strong>
                 </p>
                 <p>
-                  <strong><?php echo $lang['car_tec']; ?> Palo Santo:</strong>
+                  <?php echo $lang['desc_car_palo']; ?>.
                 </p>
-                <p>
-                  Acertadamente el árbol fue bautizado  como Bursera Graveloens, nombre científico que significa “bolsa llena de aceite’’.
-                </p>
-                <p>
-                  Los estudios realizados han demostrado que en  su composición química se encuentran elementos antigripales (Alfa-Pinene), 
-                  antisépticos (Terminen-4-OL), sedantes (Carvone, que también es insecticida) y antivirales (Sesquiterpeno), 
-                  entre otros. Por ello, y con justa razón muchos afirman que ésta es una verdadera fuente de medicina natural.
-                </p>
-                <p>
-                  Pero eso no es todo, además de los componentes ya nombrados, existe uno que destaca del resto. Estamos 
-                  hablando  del Limonene, cuyo 62,88% de presencia en el palo santo podría ayudar a prevenir tumores de 
-                  estómago, hígado, mama y piel, todo esto como parte de sus propiedades de limpieza, tanto física como 
-                  espiritual.
-                </p>               
               </div>
             </div>
           </div>

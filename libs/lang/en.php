@@ -49,9 +49,93 @@ $lang = array(
 	    'nom_cien_unia' 	=> 'Uncaria tomentosa (Willd) D.C.',
 	    'general_desc' 		=> 'GENERAL DESCRIPTION',
 	    'prop_usos' 		=> 'PROPERTIES AND USES',
+	    'desc_car_palo'		=> 'The realized studies have demonstrated that in his chemical composition they find anti-flu 
+	    						elements (Alfa-Pinene), antiseptic (Terminen-4-OL), sedative (Carvone, which also is insecticide) 
+	    						and antiviral (Sesquiterpeno), between others. For it, and with just reason many affirm that this 
+	    						one is a real source of natural medicine.<br>Besides the already renowned components, there 
+	    						exists one that it distinguishes from the rest. We are speaking about the Limonene, which 
+	    						62,88 % of presence in the holy stick might help to anticipate tumors of stomach, liver, 
+	    						breast and skin, all that as part of his properties of cleanliness, both physical and 
+	    						spiritual',
 	    'car_tec' 			=> 'Technical Characteristics',
 	    'prin_act' 			=> 'ACTIVE SUBSTANCE',
 	    'met_pesados' 		=> 'HEAVY METALS',
+	    'p2_palo'	 		=> '<p>Palo Santo is a mystical tree that grows on the coast of South America and is related to 
+	    						Frankincense, Myrrh and Copal.  In Spanish, the name literally means “Holy Wood”.  It is 
+	    						part of the citrus family and has sweet notes of pine, mint and lemon.<br>
+	    						Of approximately 18 meters of height, is a medium tree of small leaves, great quantity of 
+	    						branches and fruits in the shape of capsule, of dark green color</p>
+	    						<p>Palo Santo is enjoyed by many for its energetically cleansing and healing properties similar to 
+	    						Sage and Cedar.  It is a strong medicine that has been popularized for its heavenly presence in 
+	    						Ayahuasca ceremonies while keeping energies grounded and clear.  It creates a pleasant, fresh smoke 
+	    						that works well in keeping away mosquitoes and other flying insects which is one of the prime uses 
+	    						for the people who live in Ecuador and Peru.  It provides an uplifting scent that raises your 
+	    						vibration in preparation for meditation and allows for a deeper connection to the Source of all 
+	    						creation.  It is also said that Palo Santo enhances creativity and brings good fortune to those who 
+	    						are open to its magic</p><p>Healing benefits</p>
+	    						<p>Palo Santo is traditionally used for relieving common colds, flu symptoms, stress, asthma, 
+	    						headaches, anxiety, depression, inflammation, emotional pain and more.  This Essential Oil is 
+	    						great for Aromatherapy and can also be used during massage work to assist in healing.</p>',
+	    'p_palo'	 		=> 'Of approximately 18 meters of height,is a medium tree of small leaves, great quantity of branches 
+	    						and fruits in the shape of capsule, of dark green color',
+	    'part_util_palo'	=> 'tree',
+	    'pre_palo'	 		=> 'Sticks , Crushed, Chip, Cones, Powder, Oil',
+	    'desc_com_abuta' 	=> 'Menispermaceae species are well-known to contain alkaloids and those are extensively analyzed with 
+	    						regard to curare composition.<br>Chemical investigation of the ethyl acetate and methanol extracts 
+	    						of the twigs and leaves of A. grandifolia collected in French Guyana, furnished three 
+	    						tropoloisoquinoleines, imerubrine, pareirubrines A and B, one isoquinoleine, stepharine, and eight 
+	    						oleanane-type saponins',
+	    'p2_abuta' 			=> 'The root is indicated like anti anaemic, antihemorrhagic menstrual and antirheumatic, the stem for 
+	    						menstrual colics and as hipocolesterolémiante, antiinflammatory and aphrodisiac, the bark is used 
+	    						especially like anti malario. It is regulatory of the digestive system.<br>
+	    						The species is also traditionally used as an ingredient in curare arrow-poisons',
+	    'p_abuta'	 		=> 'High Liana, dioica, has a more or less squashed stem, which grows in spiral. His leaves are simple, 
+	    						alternate, of the pale green one. The nervures are broke. The inflorescences are in panículas from 
+	    						2 to 8 cm of length',
+	    'pre_abuta' 		=> 'Crushed, Powder, Extract',
+	    'part_util_abuta'	=> 'whole vine, seed, bark, leaf, root',
+	    'desc_com_jergon' 	=> 'Initial phytochemical screening indicates that the rhizome contains alkaloids, flavonoids, phenols, 
+	    						saponins, sterols, triterpenes, and starch; yet, none of these have been quantified or identified',
+	    'prop_usos_jergon'	=> 'BIOLOGICAL ACTIVITIES AND CLINICAL RESEARCH',
+	    'p2_jergon' 		=> 'Despite the large and growing market for jergón sacha, not a single clinical study has been 
+	    						published on its actions. If jergón sachas longstanding use as an effective snakebite remedy 
+	    						was clinically validated, it may explain its more recent use as an antiviral for HIV as well. 
+	    						The most recent class of drugs developed for HIV are called protease inhibitors. 
+	    						Protease inhibitors work by blocking an active component in HIV-its protease enzyme. 
+	    						With the protease enzyme blocked, HIV makes copies of its virus that are defective and cant 
+	    						infect new cells. In current (mainstream) HIV therapy, protease inhibitor drugs are usually 
+	    						combined with other antiviral drugs (which kill the virus directly) after the protease inhibitors 
+	    						have disabled its replication. Proteases are ubiquitously present in every cell of every living 
+	    						organism: they are enzymes that digest proteins',
+	    'p_jergon'	 		=> 'Jergón sacha is a rainforest understory plant that consists of a single, giant, deeply-divided 
+	    						leaf borne from an underground tuber on a long, thick stem which resembles the trunk of a sapling. 
+	    						When fertile, the flower stem emerges from near the base of the plant and rises up to 1–2 m in height',
+	    'ncomun_jergon'		=> 'Jergón sacha, fer-de-lance, sacha jergon, hierba del jergon, erva-jararaca, jararaca, jararaca-taia, 
+	    						milho-de-cobra, taja-de-cobra',
+	    'pre_jergon' 		=> 'crushed, powder, extract',
+	    'part_util_jergon' 	=> 'Tuber/rhizone',
+	    'current_cla' 		=> 'CURRENT PRACTICAL USES',
+	    'desc_current_cla'	=> 'Clavo huasca is still widely employed as a natural aphrodisiac for both men and women in 
+	    						South America today. Its reported to be highly effective, especially for pre-menopausal 
+	    						women (but not as effective for libido loss after menopause). This use has caught on here 
+	    						in the U.S., and more clavo huasca products are now available in natural product stores. 
+	    						It is also showing up as an ingredient in various herbal libido formulas for men and women 
+	    						as well. For its aphrodisiac qualities, its best prepared in its time-honored traditional 
+	    						method: as an alcohol tincture',
+	    'desc_composicion' 	=> 'Preliminary phytochemical analysis by Brazilian scientists have discovered an alkaloid 
+	    						they named tinantina as well as tannic acids, eugenol, and other essential oils',
+	    'composicion' 		=> 'COMPOSITION',
+	    'p2_clavo' 			=> 'It is used like digestive, for fevers, for rheumatism and arthritis and as tonic and 
+	    						muscular sedative (it strengthens, balances and strengthens the corporal functions 
+	    						in general). Together with other barks, it serves to elaborate the Amazonian liquors',
+	    'p_clavo' 			=> 'Clavo huasca is a large, woody vine that grows up to 80 m in length and is indigenous 
+	    						to the Amazon rainforest and other parts of tropical South America. It produces very small, 
+	    						white flowers (which are pollinated by bees and butterflies) and elongated, flat, 
+	    						bean-like fruits. The vine bark and root has a distinctive, clove-like aroma 
+	    						(as do the leaves, somewhat)',
+	    'ncomun_clavo' 		=> 'Clavo huasca, clove vine, white clove, clavohuasca, cipó cravo, cipó trindade',
+	    'part_util_clavo'	=> 'Vine wood, leaves, roots',
+	    'pre_clavo'			=> 'Crushed, Powder, Extract',
 	    'desc_met_chan' 	=> 'Lead (as Pb): Not more than 10 ppm<br>
 	    						Arsenic (as As): Not more than de 3 ppm.<br>
 	    						Mercury:  Not more than 1 ppm.<br>Cadmium: Not more than 1 ppm.',
