@@ -2,6 +2,8 @@
 $lang = array(
 	    'inicio' 			=> 'Inicio',
 	    'solicita' 			=> 'Solicita aquí información de nuestros productos o comunícate a través de',
+	    'sales' 			=> 'ventas',
+	    'cliente' 			=> 'cliente',
 	    'requerido' 		=> 'Casillas requeridas estan marcadas (*)',
 	    'post_venta' 		=> 'Servicio Post venta',
 	    'part_util'			=> 'Parte Utilizada',

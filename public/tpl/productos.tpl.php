@@ -316,7 +316,7 @@
                 </p>
                 <p>
                   <strong><?php echo $lang['nom_comum']; ?>:</strong> 
-                  Tahuari o Pau D' Arco.
+                  Pau'd arco - Tahuari
                 </p>
                 <p>
                   <strong><?php echo $lang['nom_cien']; ?>:</strong>

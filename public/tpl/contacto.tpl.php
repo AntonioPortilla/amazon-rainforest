@@ -28,7 +28,7 @@
         <legend> <span><?php echo $lang['contactenos']; ?></span> </legend>
       </fieldset>
       <p>
-        <?php echo $lang['solicita']; ?> : <span class="bg-info">ventas@amazonianherbs.com </span>.
+        <?php echo $lang['solicita']; ?> : <span class="bg-info"><?php echo $lang['sales']; ?>@amazonianherbs.com </span>.
       </p>
       <p>
         <span class="text-danger"> <?php echo $lang['requerido']; ?>  </span>
@@ -83,7 +83,7 @@
         </div>
       </form>
       <p>
-       <?php echo $lang['post_venta']; ?>: <span class="bg-success">cliente@amazonianherbs.com </span>
+       <?php echo $lang['post_venta']; ?>: <span class="bg-success"><?php echo $lang['cliente']; ?>@amazonianherbs.com </span>
       </p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 contact_b2">

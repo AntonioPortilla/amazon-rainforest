@@ -2,6 +2,8 @@
 $lang = array(
 		'inicio' 			=> 'Home',
 		'solicita' 			=> 'Request information about our products  or contact us through the mail ',
+		'sales' 			=> 'sales',
+		'cliente' 			=> 'customer',
 		'requerido' 		=> 'required fields are marked (*)',
 		'post_venta' 		=> 'After sales service',
 		'part_util'			=> 'Parts Used',
