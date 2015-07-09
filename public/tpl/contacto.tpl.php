@@ -64,7 +64,7 @@
           <div class="col-sm-9">
             <div class="input-group">
             <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>              
-              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7" maxlength="9">
+              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7">
             </div>
           </div>
         </div>

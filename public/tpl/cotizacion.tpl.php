@@ -47,7 +47,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_unia" name="cant_unia" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_unia" name="cant_unia">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_unia">
@@ -68,7 +68,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_chuchuhuasi" name="cant_chuchuhuasi" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_chuchuhuasi" name="cant_chuchuhuasi">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_chuchuhuasi">
@@ -89,7 +89,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_tahuaru" name="cant_tahuaru" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_tahuaru" name="cant_tahuaru">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_tahuaru">
@@ -110,7 +110,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_graviola" name="cant_graviola" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_graviola" name="cant_graviola">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_graviola">
@@ -130,7 +130,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_chancapiedra" name="cant_chancapiedra" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_chancapiedra" name="cant_chancapiedra">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_chancapiedra">
@@ -150,7 +150,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_clavo" name="cant_clavo" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_clavo" name="cant_clavo">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_clavo">              
@@ -168,7 +168,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_sasha" name="cant_sasha" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_sasha" name="cant_sasha">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_sasha">
@@ -187,7 +187,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_abuta" name="cant_abuta" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_abuta" name="cant_abuta">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_abuta">
@@ -206,7 +206,7 @@
             </div>
           </div>
           <div class="col-sm-3">
-            <input class="form-control" type="number" id="cant_palo" name="cant_palo" min="0" step="1" value="0">
+            <input class="form-control" type="text" id="cant_palo" name="cant_palo">
           </div>
           <div class="col-sm-3">
             <select class="form-control" name="pre_palo">
@@ -256,7 +256,7 @@
           <div class="col-sm-9">
             <div class="input-group">
             <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>              
-              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7" maxlength="9">
+              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7">
             </div>
           </div>
         </div>
