@@ -16,91 +16,33 @@
       <div class="carousel-inner" role="listbox">
         <div class="item active">
           <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/products/products.abutaBanner.jpg" alt="Abuta">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Abuta</h1>
-              <p><code>(Abuta Grandifolia)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/products/products.catsClawBanner.jpg" alt="cats">
-          <div class="container">
-            <div class="carousel-caption">              
-              <p><code>(Cats Claw)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/products/products.chancapiedraBanner.jpg" alt="Chancapiedra">
-          <div class="container">
-            <div class="carousel-caption">
-              <p><code>(Chancapiedra)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.ChuchuhuasiBanner.jpg" alt="Chuchuhuasi">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Chuchuhuasi</h1>
-              <p><code>(Maytenus macrocarpa)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.clavoHuascaBanner.jpg" alt="Clavo">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Clavo</h1>
-              <p><code>(Clavo Huasca)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Graviola-banner.jpg" alt="Graviola">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Graviola</h1>
-              <p><code>(Annona muricata L)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Jergon-SachaBanner.jpg" alt="Sacha">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Jergon</h1>
-              <p><code>(Jergon Sacha)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.PaloSantoBanner.jpg" alt="Palo Santo">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Palo</h1>
-              <p><code>(Palo Santo)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Pau-D-ArcoBanner.jpg" alt="Pau">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Pau</h1>
-              <p><code>(Pau D'Arco)</code></p>
-            </div>
-          </div>
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/products/products.Unia-de-gatoBanner.jpg" alt="Uña de gata">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Uña</h1>
-              <p><code>Uña de gato</code></p>
-            </div>
-          </div>
         </div>
       </div>
       <a class="left carousel-control" href="#carouselProd" role="button" data-slide="prev">

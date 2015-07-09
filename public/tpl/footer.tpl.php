@@ -7,7 +7,7 @@
             <div class="col-xs-12 col-sm-5 col-md-6 col-lg-4">
               <p>
                 Amazon Rainforest Products <?php echo $lang['oficina']; ?>: <br>
-                <?php echo $lang['telf']; ?>: (511) 9939-10360 | Fax : (511) 658-6326 <br>
+                <?php echo $lang['telf']; ?>: <span style="color:white;">(511) 9939-10360</span> | Fax : <span style="color:white;">(511) 658-6326</span> <br>
                 <?php echo $lang['correo']; ?>: <?php echo $lang['sales']; ?>@amazonianherbs.com <br>
                 Jr. Moore 151 dpto. 504 / Magdalena del Mar / <br>Lima 17 Perú
               </p>
