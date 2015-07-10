@@ -3,13 +3,7 @@
     <div id="cotiCarousel" class="carousel slide" data-ride="carousel">      
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/<?php echo $lang['coti'] ?>.jpg" alt="cotizacion">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Chuchuhuasi</h1>
-              <p><code>(Maytenus Macrocarpa)</code></p>
-            </div>
-          </div>
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/<?php echo $lang['coti'] ?>.jpg" alt="cotizacion">          
         </div>
       </div>
     </div>      

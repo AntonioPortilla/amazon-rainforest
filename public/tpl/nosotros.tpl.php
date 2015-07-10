@@ -4,12 +4,6 @@
       <div class="carousel-inner" role="listbox">
         <div class="item active">
           <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/<?php echo $lang['hist'] ?>.jpg" alt="historia">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Chuchuhuasi</h1>
-              <p><code>(Maytenus Macrocarpa)</code></p>
-            </div>
-          </div>
         </div>        
       </div>
      </div>      
