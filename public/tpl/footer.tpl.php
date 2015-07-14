@@ -4,7 +4,7 @@
             <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1">
               <img src="<?php echo IMAGE_PATH; ?>/logo-bottom.png" alt="arp">
             </div>
-            <div class="col-xs-12 col-sm-5 col-md-6 col-lg-4">
+            <div class="col-xs-12 col-sm-5 col-md-6 col-lg-4 foo-481">
               <p>
                 Amazon Rainforest Products <?php echo $lang['oficina']; ?>: <br>
                 <?php echo $lang['telf']; ?>: <span style="color:white;">(511) 9939-10360</span> | Fax : <span style="color:white;">(511) 658-6326</span> <br>
@@ -13,9 +13,9 @@
               </p>
               <span class="contact"><a href="<?php echo APP_DOMAIN; ?>/contacto/"><?php echo $lang['contactenos']; ?></a></span>
             </div>
-            <div class="col-xs-12 col-sm-1 col-md-1 col-lg-4">      
+            <div class="col-xs-12 col-sm-1 col-md-1 col-lg-4 foo-hidden">
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+            <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 foo-481">
               <p><?php echo $lang['siguenos']; ?>:</p>
               <ul class="social">
                 <li>
