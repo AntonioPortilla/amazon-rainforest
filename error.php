@@ -1,5 +1,5 @@
 <?php 
-require_once 'arp-defines.php';
+require_once 'defines.php';
 ?>
 <!DOCTYPE html>
 <html lang="es">

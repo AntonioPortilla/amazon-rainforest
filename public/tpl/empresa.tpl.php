@@ -14,7 +14,7 @@
     <div class="col-lg-12">
       <ul class="breadcrumb">
         <li>
-          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+          <a href="index.php"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
         </li>
         <li class="active"><?php echo $lang['nuestra_empresa']; ?></li>
       </ul>

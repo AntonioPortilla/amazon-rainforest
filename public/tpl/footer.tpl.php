@@ -11,7 +11,7 @@
                 <?php echo $lang['correo']; ?>: <?php echo $lang['sales']; ?>@amazonianherbs.com <br>
                 Jr. Moore 151 dpto. 504 / Magdalena del Mar / <br>Lima 17 Perú
               </p>
-              <span class="contact"><a href="<?php echo APP_DOMAIN; ?>/contacto/"><?php echo $lang['contactenos']; ?></a></span>
+              <span class="contact"><a href="<?php echo APP_DOMAIN; ?>/contacto.php"><?php echo $lang['contactenos']; ?></a></span>
             </div>
             <div class="col-xs-12 col-sm-1 col-md-1 col-lg-4 foo-hidden">
             </div>

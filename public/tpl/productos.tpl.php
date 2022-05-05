@@ -61,7 +61,7 @@
     <div class="col-lg-12">
       <ul class="breadcrumb">
         <li>
-          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+          <a href="index.php"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
         </li>
         <li class="active"><?php echo $lang['productos']; ?></li>
       </ul>
@@ -657,7 +657,7 @@
             </div>
           </div>
         </div>       
-        <a href="<?php echo APP_DOMAIN; ?>/cotizacion/" class="btn btn-danger btn-cotizar">Cotizar Producto</a>
+        <a href="<?php echo APP_DOMAIN; ?>/cotizacion.php" class="btn btn-danger btn-cotizar">Cotizar Producto</a>
       </div>
     </div>
   </div>

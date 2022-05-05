@@ -56,7 +56,7 @@
   <div class="row">
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/productos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/productos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['chancapiedra_2']; ?>.jpg" class="contenthover" alt="cat" width="95%" />
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['chancapiedra_1']; ?>.jpg" alt="chancapiedra" width="95%" />
         </a>
@@ -65,7 +65,7 @@
     </div>
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/productos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/productos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['graviola_2']; ?>.jpg" class="contenthover" alt="graviola" width="95%" />
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['graviola_1']; ?>.jpg" alt="graviola" width="95%" />
         </a>
@@ -74,7 +74,7 @@
     </div>
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/productos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/productos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['palo_2']; ?>.jpg" class="contenthover" alt="palo santo" width="95%" />
           <img src="<?php echo IMAGE_PATH; ?>/home-slider/<?php echo $lang['palo_1']; ?>.jpg" alt="palo santo" width="95%" />
         </a>

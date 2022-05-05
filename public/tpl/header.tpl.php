@@ -64,7 +64,7 @@
                         <span class="icon-bar"></span>
                       </button>
                       <span class="logo navbar-brand">
-                        <a href="/">
+                        <a href="index.php">
                           <figure>
                             <img src="<?php echo IMAGE_PATH; ?>/logo.png" alt="Amazon Rainforest Products" />
                           </figure>
@@ -74,7 +74,7 @@
                     <div id="navbar" class="navbar-collapse collapse">
                       <ul class="nav navbar-nav navbar-right">
                         <li>
-                          <a href="/" class="home">                            
+                          <a href="index.php" class="home">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['inicio']; ?></p>
@@ -87,7 +87,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/productos/">                            
+                          <a href="<?php echo APP_DOMAIN ?>/productos.php">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['productos']; ?></p>
@@ -100,7 +100,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/nosotros/">
+                          <a href="<?php echo APP_DOMAIN ?>/nosotros.php">
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['nosotros']; ?></p>
@@ -113,7 +113,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/empresa/">                            
+                          <a href="<?php echo APP_DOMAIN ?>/empresa.php">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['nuestra_empresa']; ?></p>
@@ -126,7 +126,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/cotizacion/">                           
+                          <a href="<?php echo APP_DOMAIN ?>/cotizacion.php">                           
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['cotizacion']; ?></p>
@@ -139,7 +139,7 @@
                         </li>
                         <li>
                           <span class="linea"></span>
-                          <a href="<?php echo APP_DOMAIN ?>/contacto/">                            
+                          <a href="<?php echo APP_DOMAIN ?>/contacto.php">                            
                             <div class="menu">
                               <div class="capa1">
                                 <p class="p1"><?php echo $lang['contactenos']; ?></p>
